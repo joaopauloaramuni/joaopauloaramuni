@@ -81,7 +81,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 
 <code>
-<img height="32" src="https://f0.pngfuel.com/png/747/798/blue-and-white-happy-new-year-text-mysql-png-clip-art-thumbnail.png">
+<img height="32" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png">
 </code>
 
 <code>
