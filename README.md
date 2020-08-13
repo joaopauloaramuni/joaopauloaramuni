@@ -73,12 +73,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 
 <code>
-<img height="32" src="https://img1.gratispng.com/20180702/evv/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e31e31b4.5891115215305261791237.jpg">
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png">
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png">
+<img height="32" src="https://img1.gratispng.com/20180702/evv/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e31e31b4.5891115215305261791237.jpg">
 </code>
+
 
 <code>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
