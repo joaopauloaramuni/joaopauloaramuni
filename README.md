@@ -2,7 +2,7 @@
   <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="48px" height="48px">
 </a> 
 <a href="https://www.instagram.com/joaopauloaramuni/">
-  <img src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" width="48px" height="48px">
+  <img src="https://image.flaticon.com/icons/png/512/87/87390.png" width="48px" height="48px">
 </a> 
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
   <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="48px" height="48px">
