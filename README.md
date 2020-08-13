@@ -43,7 +43,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 
 <code>
-<img height="32" src="https://plugins.jetbrains.com/files/7522/88297/icon/pluginIcon.png">
+<img height="32" src="https://abeardyman.files.wordpress.com/2017/03/elixir-language-icon-300x300.png">
 </code>
 
 <code>
