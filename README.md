@@ -24,12 +24,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480px" />
 
-- 💼 Na Trybe, atuo como Lead Instructor. Sou responsável pelo módulo de Ciência da Computação. :green_heart:
-- :cat:Tenho 2 gatos. Maju e Mingau. 
+- 💼  Na Trybe, atuo como Lead Instructor. Sou responsável pelo módulo de Ciência da Computação. :green_heart:
+- :cat: Tenho 2 gatos. Maju e Mingau. 
 - :basketball: Meus hobbies são Mu Online, Tibia e Basquete.
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para joaopauloaramuni@gmail.com para me encontrar.
-- 📝 Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
+- 💬  Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 📫  Por favor, envie um email para joaopauloaramuni@gmail.com para me encontrar.
+- 📝  Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
 
 **Linguagens e ferramentas:**  
 
