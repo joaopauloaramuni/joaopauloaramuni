@@ -2,10 +2,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
 <a href="https://www.instagram.com/joaopauloaramuni/">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  <img src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" width="48px" height="48px">
 </a> 
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="48px" height="48px">
 </a>
 <a href="http://lattes.cnpq.br/1208427665892059">
   <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
