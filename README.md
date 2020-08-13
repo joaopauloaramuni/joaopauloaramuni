@@ -10,6 +10,9 @@
 <a href="http://lattes.cnpq.br/1208427665892059">
   <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
 </a>
+<a href="joaopauloaramuni@gmail.com">
+  <img src="https://image.flaticon.com/icons/png/512/60/60543.png" width="48px" height="48px">
+</a>
 
 <br />
 <br />
