@@ -34,7 +34,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 - 📫 &nbsp; Por favor, envie um email para joaopauloaramuni@gmail.com ou joao.aramuni@betrybe.com para me encontrar.
 - 📝 &nbsp; Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
 
- <div align="right">IT Crowd</div>
+ <p align="right">IT Crowd</p>
 **Linguagens e ferramentas:**  
 
 <code>
