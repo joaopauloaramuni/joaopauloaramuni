@@ -23,9 +23,8 @@ __Mini Currículo__
 <br />
 Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">Sistemas de Informação e Gestão do Conhecimento</a> pela <a href="http://www.fumec.br/">Universidade FUMEC</a>. Possui graduação em Ciência da Computação pela Universidade FUMEC (2010-2013). Profissional com dez anos de experiência de mercado na área de tecnologia da informação e desenvolvimento de sistemas. Atualmente é instrutor líder do módulo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>, responsável pelo currículo, cronograma, melhoria de conteúdo e formação dos estudantes. Integrou a <a href="https://in8.com.br/">IN8</a> Serviços Online como desenvolvedor backend sênior onde atuou com web scraping e criação de crawlers em Python para programas de milhas aéreas. Atuou como analista de sistemas do grupo <a href="https://www.capgemini.com/br-pt/">Capgemini</a> com prestação de serviços de Tecnologia da Informação. Trabalhou alocado na <a href="https://www.prosegur.com.br/">Prosegur</a> Brasil com desenvolvimento de sistemas em Java para logística e transporte de valores. Foi professor das disciplinas de Programação Orientada a Objetos (3º Período), Fundamentos Teóricos da Computação (5º Período) e Compiladores (6º Período) do Curso de Ciência da Computação, das disciplinas de Engenharia de Software II e Introdução à Programação Web do curso de Sistemas de Informação EaD e das disciplinas de Desenvolvimento de Scripts I (VBScript) e II (Shell Script) do Curso Superior de Tecnologia em Redes de Computadores da Universidade FUMEC. Orientou mais de 30 trabalhos de conclusão de curso na área de ciência da computação. Tem experiência nos campos de: Desenvolvimento de Software, Documentação Ágil, Implantação de Sistemas, Manutenção de Sistemas Legados, Design Patterns, Boas práticas de programação, Banco de Dados e Metodologias Ágeis (Scrum e Lean). Experiência com fabricação de software para projetos da Oi Telecomunicações, ANP (Agência Nacional de Petróleo), Banco do Brasil S/A, VSB - Vallourec & Sumitomo Tubos do Brasil, Ferrous Resources do Brasil, Prosegur Brasil e HotMilhas. Possui artigos e projetos sobre metodologias ágeis publicados em revistas científicas de impacto nacional e internacional. Foi membro do grupo de pesquisa <a href="http://www.fumec.br/lais/index.html">LAIS</a> (Laboratório de Sistemas de Informação Avançados), coordenador de projetos de extensão e docente convidado da <a href="http://www.fumec.br/sites/fetage/">Fetage</a> (Feira de Tecnologia Aplicada à Gestão Empresarial) da Universidade FUMEC. Atualmente pesquisa sobre Metodologias Ágeis, Lean Manufacturing, Gestão Ágil do Conhecimento e Tecnologias para Ensino Remoto.
 
-
- <div align="right">IT Crowd</div>
  **Meus interesses pessoais:**
+ 
  <img align="right" alt="GIF" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480px" />
 
 - 💼 &nbsp; Na Trybe, atuo como Lead Instructor. Sou responsável pelo módulo de Ciência da Computação. :green_heart:
@@ -35,6 +34,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 - 📫 &nbsp; Por favor, envie um email para joaopauloaramuni@gmail.com ou joao.aramuni@betrybe.com para me encontrar.
 - 📝 &nbsp; Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
 
+ <div align="right">IT Crowd</div>
 **Linguagens e ferramentas:**  
 
 <code>
