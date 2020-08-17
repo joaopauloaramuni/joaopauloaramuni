@@ -4,7 +4,7 @@
 <a href="mailto:joaopauloaramuni@gmail.com">
   <img src="https://image.flaticon.com/icons/png/512/60/60543.png" width="48px" height="48px">
 </a>
-<a href="mailto:joaopauloaramuni@gmail.com">
+<a href="tel:31980402103">
   <img src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" width="48px" height="48px">
 </a>
 <a href="https://www.instagram.com/joaopauloaramuni/">
