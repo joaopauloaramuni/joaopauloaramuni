@@ -28,7 +28,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
  **Meus interesses pessoais:**
 
- <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="400px" />
+ <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="70%" height="70%"/>
 
 - 💼 &nbsp; Na Trybe, atuo como Lead Instructor. Sou responsável pelo módulo de Ciência da Computação. :green_heart:
 - :cat: &nbsp; Tenho 2 gatos. Maju e Mingau. 
