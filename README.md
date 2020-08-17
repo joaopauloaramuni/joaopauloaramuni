@@ -19,7 +19,7 @@
 
 <br />
 <br />
-
+<br />
 Olá, me chamo __João Paulo Aramuni__, tenho 29 anos, sou de BH e sou programador desde os 15 anos. Programo melhor quando bebo café :coffee:
 
 __Mini Currículo__
