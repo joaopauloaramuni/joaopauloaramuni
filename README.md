@@ -55,6 +55,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 
 <code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png">
+</code>
+
+<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </code>
 
@@ -78,10 +82,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <code>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
-
-<code>
-<img height="32" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png">
 </code>
 
 <code>
