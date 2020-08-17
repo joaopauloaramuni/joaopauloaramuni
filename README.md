@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Olá, me chamo __João Paulo Aramuni__, tenho 29 anos, sou de BH e sou programador desde os 15 anos. Programo melhor quando bebo café :coffee:
+Olá, me chamo __João Paulo Aramuni__, tenho 29 anos, sou de BH e sou programador desde os 15 anos. Programo melhor quando bebo café :coffee: 
 
 __Mini currículo__
 <br />
@@ -30,11 +30,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
  **Meus interesses pessoais:**
 
-- 💼 &nbsp; Na Trybe, atuo como Lead Instructor. Sou responsável pelo módulo de Ciência da Computação. :green_heart:
-- 
-- :cat: &nbsp; Tenho 2 gatos. Maju e Mingau. 
+- 💼 &nbsp; Na Trybe, atuo como Lead Instructor. Sou responsável pelo módulo de Ciência da Computação :green_heart:
+- :mortar_board: Sou professor e pesquisador há 5 anos.
+- :cat: &nbsp; Tenho 2 gatos. Maju e Mingau.
 - :basketball: &nbsp; Meus hobbies são Mu Online, Tibia e Basquete.
-- 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 - 📫 &nbsp; Por favor, envie um email para joaopauloaramuni@gmail.com ou joao.aramuni@betrybe.com para me encontrar.
 - 📝 &nbsp; Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
 
