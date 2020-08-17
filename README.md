@@ -32,7 +32,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 - 💼 &nbsp; Na Trybe, atuo como Lead Instructor. Sou responsável pelo módulo de Ciência da Computação. :green_heart:
 - :mortar_board: &nbsp; Sou professor e pesquisador há 5 anos.
-- :cat: &nbsp; Tenho 2 gatos. Maju e Mingau.
+- :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
 - :basketball: &nbsp; Meus hobbies são Mu Online, Tibia e Basquete.
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 - 📫 &nbsp; Por favor, envie um email para joaopauloaramuni@gmail.com ou joao.aramuni@betrybe.com para me encontrar.
