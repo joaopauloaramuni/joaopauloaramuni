@@ -53,7 +53,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 
 <code>
-<img height="32" src="https://f0.pngfuel.com/png/46/626/c-logo-png-clip-art.png">
+<img height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
 </code>
 
 <code>
