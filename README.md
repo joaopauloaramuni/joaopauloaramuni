@@ -55,10 +55,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png">
-</code>
-
-<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </code>
 
@@ -72,6 +68,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <code>
 <img height="32" src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png">
 </code>
 
 <code>
