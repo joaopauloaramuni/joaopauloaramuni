@@ -30,7 +30,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
  <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="360px"/>
 
-<div width="420px" align="left">
  **Meus interesses pessoais:**
 
 - 💼 &nbsp; Na Trybe, atuo como Líder de Instrução. Sou responsável pelo time de instrução do módulo de Ciência da Computação. Além disso, faço as entrevistas técnicas nos processos seletivos para trazer novas pessoas instrutoras e especialistas para o time =D :green_heart:
@@ -42,7 +41,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 - 📝 &nbsp; Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
 
 <br />
-</div>
+
 **Linguagens e ferramentas:**  
 
 <code>
