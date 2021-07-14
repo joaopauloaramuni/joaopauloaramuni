@@ -33,7 +33,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
  **Meus interesses pessoais:**
 
 - 💼 &nbsp; Na Trybe, atuo como Líder de Instrução. Sou responsável pelo time de instrução do módulo de Ciência da Computação. Além disso, faço as entrevistas técnicas nos processos seletivos para trazer novas pessoas instrutoras e especialistas para o time =D :green_heart:
-- :mortar_board: &nbsp; Também sou professor de Arquitetura de Software no IGTI.
+- :mortar_board: &nbsp; Também fui professor de Arquitetura de Software no IGTI e de Ciência da Computação na Universidade Fumec.
 - :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
 - :basketball: &nbsp; Meus hobbies são Mu Online, Tibia e Basquete.
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
