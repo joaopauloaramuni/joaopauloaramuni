@@ -1,5 +1,5 @@
 <a href="https://github.com/joaopauloaramuni">
-  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="48px" height="48px">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48px" height="48px">
 </a>
 <a href="mailto:joaopauloaramuni@gmail.com">
   <img src="https://image.flaticon.com/icons/png/512/60/60543.png" width="48px" height="48px">
