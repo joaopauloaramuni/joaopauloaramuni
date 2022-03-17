@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Olá, me chamo __João Paulo Aramuni__, tenho 31 anos, sou de BH e sou programador desde os 15 anos. Programo melhor quando bebo café :coffee: 
+Olá, me chamo __João Paulo Aramuni__, tenho 31 anos, sou de BH e sou programador desde os 15 anos. Atualmente lidero o time de instrução de ciência da computação na Trybe =D
 
 __Mini currículo__
 <br />
