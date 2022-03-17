@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" width="48px" height="48px">
 </a>
 <a href="https://www.instagram.com/joaopauloaramuni/">
-  <img src="https://image.flaticon.com/icons/png/512/87/87390.png" width="48px" height="48px">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" width="48px" height="48px">
 </a> 
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
   <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="48px" height="48px">
