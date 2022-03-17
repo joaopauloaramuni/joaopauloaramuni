@@ -11,7 +11,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" width="48px" height="48px">
 </a> 
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
-  <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="48px" height="48px">
+  <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="48px" height="48px">
 </a>
 <a href="http://lattes.cnpq.br/1208427665892059">
   <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
