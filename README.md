@@ -33,7 +33,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
  **Meus interesses pessoais:**
 
 - 💼 &nbsp; Na Trybe, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
-- :mortar_board: &nbsp; Também fui professor de Arquitetura de Software no IGTI e de Ciência da Computação na Universidade Fumec.
+- :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na XP Educação e de Ciência da Computação na Universidade Fumec.
 - :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
 - :basketball: &nbsp; Meus hobbies são Mu Online, Tibia e Basquete.
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
