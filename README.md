@@ -43,6 +43,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 - 📝 &nbsp; Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
 
 <br />
+<br />
 
 **Linguagens e ferramentas:**  
 
