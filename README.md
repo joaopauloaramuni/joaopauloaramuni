@@ -22,7 +22,7 @@
 
 Olá, me chamo __João Paulo Aramuni__, tenho 31 anos, sou de BH e sou programador desde os 15 anos. Atualmente sou Tech Lead no time de currículo de ciência da computação na Trybe =D
 
-<b>Mini currículo</b>
+<b>Mini currículo:</b>
 <br />
 
 <div align="justify">
@@ -38,8 +38,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </div>
 
 <div>
-<b>Meus interesses pessoais</b>
-
+<b>Meus interesses pessoais:</b>
+<br />
 - 💼 &nbsp; Na Trybe, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na XP Educação e de Ciência da Computação na Universidade Fumec.
 - :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
@@ -53,8 +53,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <br />
 
-<b>Linguagens e ferramentas</b> 
-
+<b>Linguagens e ferramentas:</b> 
+<br />
 <code>
 <img height="32" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
 </code>
