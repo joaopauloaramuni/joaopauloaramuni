@@ -38,7 +38,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </div>
 
 <div>
- **Meus interesses pessoais:**
+__Meus interesses pessoais__
 
 - 💼 &nbsp; Na Trybe, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na XP Educação e de Ciência da Computação na Universidade Fumec.
@@ -53,7 +53,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <br />
 
-**Linguagens e ferramentas:**  
+__Linguagens e ferramentas__ 
 
 <code>
 <img height="32" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
