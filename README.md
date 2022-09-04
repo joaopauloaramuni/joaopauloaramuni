@@ -46,7 +46,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 - :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
 <br />
-- :basketball: &nbsp; Meus hobbies são Mu Online, Tibia e Basquete.
+- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt">Mu Online</a>, <a href="https://www.demolidores.com.br/">Tibia</a> e <a href="https://olympico.com.br/esportes/basquete/">Basquete</a>.
 <br />
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 <br />
