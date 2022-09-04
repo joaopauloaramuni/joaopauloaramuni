@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Olá, me chamo __João Paulo Aramuni__, tenho 31 anos, sou de BH e sou programador desde os 15 anos. Atualmente sou Tech Lead no time de currículo de ciência da computação na Trybe =D
+Olá, me chamo <b>João Paulo Aramuni</b>, tenho 31 anos, sou de BH e sou programador desde os 15 anos. Atualmente sou Tech Lead no time de currículo de ciência da computação na Trybe =D
 
 <b>Mini currículo:</b>
 
