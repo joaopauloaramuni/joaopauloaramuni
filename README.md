@@ -24,9 +24,12 @@ Olá, me chamo __João Paulo Aramuni__, tenho 31 anos, sou de BH e sou programad
 
 __Mini currículo__
 <br />
+
 <div align="justify">
 Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">Sistemas de Informação e Gestão do Conhecimento</a> pela <a href="http://www.fumec.br/">Universidade FUMEC</a>. Possui graduação em Ciência da Computação pela <a href="http://www.fumec.br/">Universidade FUMEC</a> (2010-2013). Profissional com dez anos de experiência de mercado na área de tecnologia da informação e desenvolvimento de sistemas. Atualmente é Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>, responsável pela pesquisa e tomada de decisão em hard skills, formação e desenvolvimento técnico do time, produção de conteúdo e revisão técnica. Foi professor de Arquitetura de Software e Engenharia de Requisitos na XP Educação - <a href="https://www.xpeducacao.com.br/">XPE</a> e professor das disciplinas de Programação Orientada a Objetos (3º Período), Fundamentos Teóricos da Computação (5º Período) e Compiladores (6º Período) do Curso de Ciência da Computação, das disciplinas de Engenharia de Software II e Introdução à Programação Web do curso de Sistemas de Informação EaD e das disciplinas de Desenvolvimento de Scripts I (VBScript) e II (Shell Script) do Curso Superior de Tecnologia em Redes de Computadores da <a href="http://www.fumec.br/">Universidade FUMEC</a>. Orientou mais de 30 trabalhos de conclusão de curso na área de ciência da computação. Integrou a <a href="https://in8.com.br/">IN8</a> - Produtos Digitais como desenvolvedor back-end sênior onde atuou com web scraping e criação de crawlers em Python para programas de milhas aéreas. Atuou como analista de sistemas do grupo <a href="https://www.capgemini.com/br-pt/">Capgemini</a> com prestação de serviços de tecnologia da informação. Trabalhou alocado na <a href="https://www.prosegur.com.br/">Prosegur</a> Brasil com desenvolvimento de sistemas em Java para logística e transporte de valores. Tem experiência nos campos de: Liderança e gestão de pessoas, Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global, Manutenção de sistemas legados, Design patterns, Boas práticas de programação, Banco de dados e Metodologias ágeis: Scrum e Lean. Experiência com fabricação de software para projetos da Oi Telecomunicações, ANP - Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, Banco do Brasil S/A, VSB - Vallourec & Sumitomo Tubos do Brasil, Ferrous Resources do Brasil, Prosegur Brasil e HotMilhas. Possui artigos e projetos sobre metodologias ágeis publicados em revistas científicas de impacto nacional e internacional. Foi membro do grupo de pesquisa <a href="http://www.fumec.br/lais/index.html">LAIS</a> (Laboratório de Sistemas de Informação Avançados), coordenador de projetos de extensão e docente convidado da <a href="http://www.fumec.br/sites/fetage/">Fetage</a> (Feira de Tecnologia Aplicada à Gestão Empresarial) da <a href="http://www.fumec.br/">Universidade FUMEC</a>. Atualmente pesquisa sobre Metodologias ágeis, Gestão ágil do conhecimento e Tecnologias para ensino remoto.
 </div>
+
+<div>
 
 <div>
  <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="300px"/>
@@ -42,6 +45,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 - 📫 &nbsp; Por favor, envie um email para joaopauloaramuni@gmail.com ou joao.aramuni@betrybe.com para me encontrar.
 - 📝 &nbsp; Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
+</div>
+
 </div>
 
 <br />
