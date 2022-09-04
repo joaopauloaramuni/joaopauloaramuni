@@ -46,7 +46,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c">aqui</a>. Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/master/Aramuni.c">uma linha</a>?
 <br />
-- :page_facing_up: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">aqui</a>.
+- 📝 &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">aqui</a>.
 <br />
 - :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
 <br />
@@ -56,7 +56,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 - 📫 &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com">email pessoal</a> e esse é meu <a href="mailto:joao.aramuni@betrybe.com">email da Trybe</a>.
 <br />
-- 📝 &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
+- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
 </p>
 
 </div>
