@@ -41,11 +41,17 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <p>
 - 💼 &nbsp; Na Trybe, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
+<br />
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na XP Educação e de Ciência da Computação na Universidade Fumec.
+<br />
 - :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
+<br />
 - :basketball: &nbsp; Meus hobbies são Mu Online, Tibia e Basquete.
+<br />
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
+<br />
 - 📫 &nbsp; Por favor, envie um email para joaopauloaramuni@gmail.com ou joao.aramuni@betrybe.com para me encontrar.
+<br />
 - 📝 &nbsp; Veja meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059) para mais informações.
 </p>
 
