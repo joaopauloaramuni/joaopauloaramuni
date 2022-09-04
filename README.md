@@ -50,7 +50,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 <br />
-- 📫 &nbsp; Por favor, envie um email para joaopauloaramuni@gmail.com ou joao.aramuni@betrybe.com para me encontrar.
+- 📫 &nbsp; Por favor, envie um email para <address>joaopauloaramuni@gmail.com</address> ou <address>joao.aramuni@betrybe.com</address> para me encontrar.
 <br />
 - 📝 &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
 </p>
