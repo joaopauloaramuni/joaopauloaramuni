@@ -23,7 +23,6 @@
 Olá, me chamo __João Paulo Aramuni__, tenho 31 anos, sou de BH e sou programador desde os 15 anos. Atualmente sou Tech Lead no time de currículo de ciência da computação na Trybe =D
 
 <b>Mini currículo:</b>
-<br />
 
 <div align="justify">
 Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">Sistemas de Informação e Gestão do Conhecimento</a> pela <a href="http://www.fumec.br/">Universidade FUMEC</a>. Possui graduação em Ciência da Computação pela <a href="http://www.fumec.br/">Universidade FUMEC</a> (2010-2013). Profissional com dez anos de experiência de mercado na área de tecnologia da informação e desenvolvimento de sistemas. Atualmente é Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>, responsável pela pesquisa e tomada de decisão em hard skills, formação e desenvolvimento técnico do time, produção de conteúdo e revisão técnica. Foi professor de Arquitetura de Software e Engenharia de Requisitos na XP Educação - <a href="https://www.xpeducacao.com.br/">XPE</a> e professor das disciplinas de Programação Orientada a Objetos (3º Período), Fundamentos Teóricos da Computação (5º Período) e Compiladores (6º Período) do Curso de Ciência da Computação, das disciplinas de Engenharia de Software II e Introdução à Programação Web do curso de Sistemas de Informação EaD e das disciplinas de Desenvolvimento de Scripts I (VBScript) e II (Shell Script) do Curso Superior de Tecnologia em Redes de Computadores da <a href="http://www.fumec.br/">Universidade FUMEC</a>. Orientou mais de 30 trabalhos de conclusão de curso na área de ciência da computação. Integrou a <a href="https://in8.com.br/">IN8</a> - Produtos Digitais como desenvolvedor back-end sênior onde atuou com web scraping e criação de crawlers em Python para programas de milhas aéreas. Atuou como analista de sistemas do grupo <a href="https://www.capgemini.com/br-pt/">Capgemini</a> com prestação de serviços de tecnologia da informação. Trabalhou alocado na <a href="https://www.prosegur.com.br/">Prosegur</a> Brasil com desenvolvimento de sistemas em Java para logística e transporte de valores. Tem experiência nos campos de: Liderança e gestão de pessoas, Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global, Manutenção de sistemas legados, Design patterns, Boas práticas de programação, Banco de dados e Metodologias ágeis: Scrum e Lean. Experiência com fabricação de software para projetos da Oi Telecomunicações, ANP - Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, Banco do Brasil S/A, VSB - Vallourec & Sumitomo Tubos do Brasil, Ferrous Resources do Brasil, Prosegur Brasil e HotMilhas. Possui artigos e projetos sobre metodologias ágeis publicados em revistas científicas de impacto nacional e internacional. Foi membro do grupo de pesquisa <a href="http://www.fumec.br/lais/index.html">LAIS</a> (Laboratório de Sistemas de Informação Avançados), coordenador de projetos de extensão e docente convidado da <a href="http://www.fumec.br/sites/fetage/">Fetage</a> (Feira de Tecnologia Aplicada à Gestão Empresarial) da <a href="http://www.fumec.br/">Universidade FUMEC</a>. Atualmente pesquisa sobre Metodologias ágeis, Gestão ágil do conhecimento e Tecnologias para ensino remoto.
@@ -39,7 +38,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <div>
 <b>Meus interesses pessoais:</b>
-<br />
+
 - 💼 &nbsp; Na Trybe, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na XP Educação e de Ciência da Computação na Universidade Fumec.
 - :octocat: &nbsp; Tenho 2 gatos. Maju e Mingau.
@@ -54,7 +53,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 
 <b>Linguagens e ferramentas:</b> 
-<br />
+
 <code>
 <img height="32" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
 </code>
