@@ -16,6 +16,9 @@
 <a href="http://lattes.cnpq.br/1208427665892059">
   <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
 </a>
+<a href="https://www.skoob.com.br/perfil/Aramuni">
+  <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_skoob_icon_157802.png" width="48px" height="48px">
+</a>
 
 <br />
 <br />
