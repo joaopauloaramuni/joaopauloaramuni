@@ -47,7 +47,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/">XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/">Universidade FUMEC</a>.
 <br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c">aqui</a>. (Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/master/Aramuni.c">uma linha</a>?)
+- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c">aqui</a>.
+<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/master/Aramuni.c">uma linha</a>?)
 <br />
 - 📝 &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">aqui</a>.
 <br />
