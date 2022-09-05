@@ -130,3 +130,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <code>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </code>
+
+<br />
+
+<b>return 0;</b> 
