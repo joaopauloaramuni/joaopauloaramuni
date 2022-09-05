@@ -31,12 +31,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <div>
 <br />
 <div>
- <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="330px" height="330px"/>
+ <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="340px" height="430px"/>
 </div>
 
 <div>
 
-<b>Meus interesses pessoais:</b>
+<b>aMeus interesses pessoais:</b>
 
 <p>
 - 💼 &nbsp; Na <a href="https://www.betrybe.com/">Trybe</a>, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
