@@ -35,7 +35,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <div>
 <br />
 <div>
- <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="330px" height="330px"/>
+ <img align="right" alt="GIF" src="https://miro.medium.com/max/700/1*VMmvImch6VU5pc2VktY1uw.gif" width="320px" height="320px"/>
 </div>
 
 <div>
