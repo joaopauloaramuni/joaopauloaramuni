@@ -4,6 +4,8 @@
 <img align="right" alt="GitHub Stats" width="460px" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&theme=dark"  />
 </div>
 
+<br />
+
 <div>
 <a href="https://github.com/joaopauloaramuni">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48px" height="48px">
