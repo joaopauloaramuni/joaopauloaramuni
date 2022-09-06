@@ -54,7 +54,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <b>Meus interesses pessoais:</b>
 
-<div align="justify" width="70px">
+<p>
 - 💼 &nbsp; Na <a href="https://www.betrybe.com/">Trybe</a>, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
 <br />
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/">XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/">Universidade FUMEC</a>.
@@ -77,8 +77,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min">agenda</a> se quiser marcar um horário para falarmos.
 <br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
-
-</div>
+</p>
 
 </div>
 
