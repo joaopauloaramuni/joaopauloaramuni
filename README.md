@@ -33,7 +33,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_skoob_icon_157802.png" width="48px" height="48px">
 </a>
 <br />
-<br />
 </div>
 
 </div>
