@@ -1,7 +1,7 @@
 <div>
 
 <div>
-<img align="right" alt="GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&theme=dark"/>
+<img align="right" alt="GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&hide_border=true&theme=dark"/>
 </div>
 
 <div>
