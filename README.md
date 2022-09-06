@@ -54,7 +54,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <b>Meus interesses pessoais:</b>
 
-<div align="justify">
 <p>
 - 💼 &nbsp; Na <a href="https://www.betrybe.com/">Trybe</a>, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
 <br />
@@ -79,7 +78,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
 </p>
-</div>
 </div>
 
 <div>
