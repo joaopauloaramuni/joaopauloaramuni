@@ -74,7 +74,7 @@
   - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
   </p>
 </div>
-
+<br />
 <div>
   <b>Linguagens e ferramentas:</b> 
   <code>
