@@ -29,6 +29,10 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" width="48px" height="48px">
 </a>
 &nbsp;
+<a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">
+  <img src="https://gcgosling.files.wordpress.com/2012/10/google-scholar-logo.png" width="48px" height="48px">
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
   <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="48px" height="48px">
 </a>
