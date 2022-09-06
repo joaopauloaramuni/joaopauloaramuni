@@ -1,10 +1,8 @@
 <div>
-<img align="right" alt="GitHub Stats" width="280px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
-</div>
 
 <div>
-
-
+<img align="right" alt="GitHub Stats" width="280px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
+</div>
 
 <div>
 <a href="https://github.com/joaopauloaramuni">
