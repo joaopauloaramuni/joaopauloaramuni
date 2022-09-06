@@ -26,7 +26,7 @@
 </a>
 &nbsp;
 <a href="https://calendly.com/aramuni">
-  <img src="https://uspto.report/TM/90458106/mark.png" width="48px" height="48px">
+  <img src="https://logos-world.net/wp-content/uploads/2021/06/Calendly-New-Logo.png" width="48px" height="48px">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
