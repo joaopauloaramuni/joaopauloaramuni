@@ -86,7 +86,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <code>
 <img height="32" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
 </code>
@@ -138,6 +138,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 
 </div>
+
+<div> <img align="right" alt="GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=compact&show_icons=true&hide_border=true&theme=dark&langs_count=10"/> </div>
 
 <br />
 
