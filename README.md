@@ -25,8 +25,8 @@
   <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_skoob_icon_157802.png" width="48px" height="48px">
 </a>
 &nbsp;
-<a href="https://calendly.com/aramuni/30min">
-  <img src="https://uspto.report/TM/90458106/mark.png" width="48px" height="48px">
+<a href="https://calendly.com/aramuni">
+  <img src="https://assets.stickpng.com/images/62c6f51b7a58a4aa1fb770b0.png" width="48px" height="48px">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
