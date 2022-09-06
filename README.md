@@ -141,6 +141,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <br />
 
-<div> <img align="right" alt="GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=compact&show_icons=true&hide_border=true&theme=dark&langs_count=10"/> </div>
+<div>
+<img alt="GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=compact&show_icons=true&hide_border=true&theme=dark&langs_count=10"/>
+</div>
 
 <b>return 0;</b> 
