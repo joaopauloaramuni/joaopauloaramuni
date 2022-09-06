@@ -1,3 +1,10 @@
+<div>
+
+<div>
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&theme=radical"  />
+</div>
+
+<div>
 <a href="https://github.com/joaopauloaramuni">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48px" height="48px">
 </a>
@@ -19,9 +26,11 @@
 <a href="https://www.skoob.com.br/perfil/Aramuni">
   <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_skoob_icon_157802.png" width="48px" height="48px">
 </a>
+<br />
+<br />
+</div>
 
-<br />
-<br />
+</div>
 
 <i>Olá, sou o <b>Aramuni</b>, tenho 31 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>.</i> :computer:
 
