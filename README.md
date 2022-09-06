@@ -33,7 +33,6 @@
   <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
 </a>
 <br />
-<br />
 </div>
 
 </div>
