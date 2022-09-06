@@ -86,61 +86,61 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <code>
 <img height="32" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://abeardyman.files.wordpress.com/2017/03/elixir-language-icon-300x300.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"></code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://camo.githubusercontent.com/f68dff6e71f5f47d3cbb727b0112b162b2cf32a1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"></code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png">
 </code>
-
+&nbsp; 
 <code>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </code>
