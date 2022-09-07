@@ -182,7 +182,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code>
 <a href="https://www.w3schools.com/css/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.png"/>
+<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/>
 </a>
 </code>
 &nbsp; 
