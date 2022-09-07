@@ -22,6 +22,14 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" width="48px" height="48px">
 </a>
 
+<a href="https://www.linkedin.com/in/joaopauloaramuni/">
+  <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="48px" height="48px">
+</a>
+
+<a href="http://lattes.cnpq.br/1208427665892059">
+  <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
+</a>
+
 <a href="https://slack.com/app_redirect?channel=UVD9N6VCL">
   <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/slack_black_logo_icon_147081.png" width="48px" height="48px">
 </a>
@@ -40,14 +48,6 @@
 
 <a href="https://calendly.com/aramuni/">
   <img src="https://cdn-icons-png.flaticon.com/512/55/55281.png" width="48px" height="48px">
-</a>
-
-<a href="https://www.linkedin.com/in/joaopauloaramuni/">
-  <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="48px" height="48px">
-</a>
-
-<a href="http://lattes.cnpq.br/1208427665892059">
-  <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
 </a>
 
 <br />
