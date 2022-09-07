@@ -216,6 +216,18 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <img height="32" src="https://www.css-oc.com/images/Microsoft%20NET.png">
 </a>
 </code>
+&nbsp; 
+<code>
+<a href="https://www.eclipse.org/downloads/" target="_blank">
+<img height="32" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png">
+</a>
+</code>
+&nbsp; 
+<code>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img height="32" src="https://logospng.org/wp-content/uploads/visual-studio-code.png">
+</a>
+</code>
 </div>
 
 <br />
