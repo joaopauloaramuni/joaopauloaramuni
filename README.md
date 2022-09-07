@@ -188,8 +188,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
-<a href="https://nodejs.org/en/" target="_blank">
-<img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<a href="https://www.docker.com/" target="_blank">
+<img height="28" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png">
+</a>
+</code>
+&nbsp; 
+<code>
+<a href="https://www.primefaces.org/" target="_blank">
+<img height="28" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng_solidBlack.png">
 </a>
 </code>
 </div>
