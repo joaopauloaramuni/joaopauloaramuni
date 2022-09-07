@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://calendly.com/aramuni/">
-  <img src="https://assets-global.website-files.com/5e1917af1f60f9884b3f8c51/6079176235209454e6cbd570_Calendly%20Logo.png" width="48px" height="48px">
+  <img src="https://www.marketingmilk.com/wp-content/uploads/2019/06/calendly-logo.png" width="48px" height="48px">
 </a>
 
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
