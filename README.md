@@ -191,8 +191,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <img alt="GitHub Details" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/>
 </div>
 
-<br />
-
 -----
 <div>
 Créditos: <b>Aramuni</b> <br />
