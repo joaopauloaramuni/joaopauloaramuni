@@ -191,18 +191,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <br />
 
-<div>
-
-Créditos: <b>Aramuni</b> <br />
-Última atualização: 06/09/2022 <br />
-
-<b>return 0;</b>
-
-</div>
-
 -----
 <div>
-<p>
-    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&color=lightgrey"/>
-</p>
+Créditos: <b>Aramuni</b> <br />
+Última atualização: 06/09/2022 <br />
+<img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&color=lightgrey"/>
 </div>
