@@ -230,6 +230,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
+<a href="https://aws.amazon.com/pt/" target="_blank">
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+</a>
+</code>
+&nbsp; 
+<code>
 <a href="https://www.heroku.com/" target="_blank">
 <img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png">
 </a>
