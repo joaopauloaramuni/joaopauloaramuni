@@ -65,14 +65,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <b>Meus interesses pessoais:</b>
 
 <p>
-- 💼 &nbsp; Na <a href="https://www.betrybe.com/">Trybe</a>, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
+- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/">Trybe</a>, atuo como Tech Lead de Currículo. Sou responsável pela estrutura curricular de hard skills do módulo de Ciência da Computação.
 <br />
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/">Universidade FUMEC</a>.
 <br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c">aqui</a>.
 <br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/master/Aramuni.c">uma linha</a>? :thinking:)
 <br />
-- 📝 &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">aqui</a>.
+- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">aqui</a>.
 <br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni">aqui</a>.
 <br />
@@ -80,9 +80,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt">Mu online</a>, <a href="https://www.demolidores.com.br/">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/">basquete</a>, violão e guitarra.
 <br />
-- 💬 &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
+- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 <br />
-- 📫 &nbsp; Para me encontrar, esse é meu email <a href="mailto:joaopauloaramuni@gmail.com">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com">Trybe</a>.
+- :mailbox: &nbsp; Para me encontrar, esse é meu email <a href="mailto:joaopauloaramuni@gmail.com">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com">Trybe</a>.
 <br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min">agenda</a> se quiser marcar um horário para falarmos.
 <br />
