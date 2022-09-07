@@ -293,12 +293,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 
 -----
 <div>
-
-<div width="50px" height="50px" align="right"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile<img href="")</div>
-
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default">
-
+<img align="right" alt="Spotify" width="50px" height="50px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default">
 Créditos: <a href="https://github.com/joaopauloaramuni">Aramuni</a> <br />
 Última atualização: 07/09/2022 <br /><br />
 <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&color=lightgrey"/>
