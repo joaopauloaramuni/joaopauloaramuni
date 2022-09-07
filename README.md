@@ -306,5 +306,3 @@ Créditos: <a href="https://github.com/joaopauloaramuni">Aramuni</a> <br />
 <br /><br /><br /><br /><br /><br /><br />
 
 -----
-
-[![wakatime](https://wakatime.com/badge/github/joaopauloaramuni/joaopauloaramuni.svg)](https://wakatime.com/badge/github/joaopauloaramuni/joaopauloaramuni)
