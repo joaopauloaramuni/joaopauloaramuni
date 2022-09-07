@@ -103,7 +103,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <code>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-<img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170080.png">
+<img height="32" src="https://camo.githubusercontent.com/a7de91b915d8b286dda762e3683d9a1c961692d43f8349d020ecd54634a823cf/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
 </a>
 </code>
 &nbsp; 
