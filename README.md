@@ -11,12 +11,12 @@
 <div>
 
 <div>
-<kbd><img align="right" alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/></kbd>
+<img align="right" alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </div>
 
 <div>
 <a href="https://github.com/joaopauloaramuni">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true)" width="48px" height="48px"/>
+  <kbd><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true)" width="48px" height="48px"/></kbd>
 </a>
 
 <a href="mailto:joaopauloaramuni@gmail.com">
