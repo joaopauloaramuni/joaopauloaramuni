@@ -219,7 +219,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-<img height="32" src="https://www.css-oc.com/images/Microsoft%20NET.png">
+<img height="32" src="https://icons-for-free.com/iconfiles/png/512/dot+net+original-1324760529370819616.png">
 </a>
 </code>
 &nbsp; 
