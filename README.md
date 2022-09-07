@@ -16,7 +16,7 @@
 
 <div>
 <a href="https://github.com/joaopauloaramuni">
-  <kbd><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true)" width="48px" height="48px"/></kbd>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true)" width="48px" height="48px"/>
 </a>
 
 <a href="mailto:joaopauloaramuni@gmail.com">
