@@ -248,6 +248,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
+<a href="https://www.postman.com/" target="_blank">
+<img width="32" height="32" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">
+</a>
+</code>
+&nbsp; 
+<code>
 <a href="https://www.eclipse.org/downloads/" target="_blank">
 <img width="32" height="32" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png">
 </a>
