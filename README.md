@@ -153,7 +153,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://www.jenkins.io/" target="_blank">
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">
+<img height="32" src="https://get.jenkins.io/art/jenkins-logo/headshot.svg">
 </a>
 </code>
 &nbsp; 
