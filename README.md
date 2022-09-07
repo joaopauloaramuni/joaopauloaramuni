@@ -198,6 +198,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <img height="32" src="https://avatars.githubusercontent.com/u/3494069?s=280&v=4">
 </a>
 </code>
+&nbsp; 
+<code>
+<a href="https://www.heroku.com/" target="_blank">
+<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png">
+</a>
+</code>
 </div>
 
 <br />
