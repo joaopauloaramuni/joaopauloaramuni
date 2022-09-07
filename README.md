@@ -159,7 +159,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://pt-br.reactjs.org/" target="_blank">
-<img height="28" src="https://logospng.org/wp-content/uploads/php.png">
+<img height="28" src="https://logospng.org/download/php/logo-php-1024.png">
 </a>
 </code>
 &nbsp; 
