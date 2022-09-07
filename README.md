@@ -99,31 +99,31 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <code>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-<img height="28" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
+<img height="30" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.python.org/" target="_blank">
-<img height="28" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+<img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-<img height="28" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://isocpp.org/" target="_blank">
-<img height="28" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+<img height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.java.com/pt-BR/" target="_blank">
-<img height="28" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+<img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
 </a>
 </code>
 &nbsp; 
