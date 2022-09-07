@@ -22,16 +22,16 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" width="48px" height="48px">
 </a>
 
-<a href="https://www.skoob.com.br/perfil/Aramuni">
-  <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_skoob_icon_157802.png" width="48px" height="48px">
+<a href="https://slack.com/app_redirect?channel=UVD9N6VCL">
+  <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/slack_black_logo_icon_147081.png" width="48px" height="48px">
 </a>
 
 <a href="https://discordapp.com/users/959151773728251914">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" width="48px" height="48px">
 </a>
 
-<a href="https://slack.com/app_redirect?channel=UVD9N6VCL">
-  <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/slack_black_logo_icon_147081.png" width="48px" height="48px">
+<a href="https://www.skoob.com.br/perfil/Aramuni">
+  <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_skoob_icon_157802.png" width="48px" height="48px">
 </a>
 
 <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">
