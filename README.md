@@ -122,7 +122,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code>
 <a href="https://www.python.org/" target="_blank">
-<img width="32" height="30" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pyhon.png?raw=true"/>
+<img width="32" height="30" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/>
 </a>
 </code>
 &nbsp; 
