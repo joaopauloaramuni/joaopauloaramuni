@@ -46,7 +46,9 @@
 
 </div>
 
-<div><i>Olá, sou o <b>Aramuni</b>, tenho 31 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>.</i> :computer:</div>
+<div><i>Olá, sou o <b>Aramuni</b>, tenho 31 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>.</i> :computer:
+</div>
+
 <br />
 
 -----
@@ -194,6 +196,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 -----
 <div>
 Créditos: <b>Aramuni</b> <br />
-Última atualização: 06/09/2022 <br />
+Última atualização: 06/09/2022 <br /><br />
 <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&color=lightgrey"/>
 </div>
