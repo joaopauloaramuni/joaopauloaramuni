@@ -177,7 +177,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://www.mongodb.com/pt-br" target="_blank">
-<img height="28" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png">
+<img height="28" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
 </a>
 </code>
 &nbsp; 
