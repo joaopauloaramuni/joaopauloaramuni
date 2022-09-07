@@ -194,6 +194,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
+<a href="https://www.lua.org/" target="_blank">
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
+</a>
+</code>
+&nbsp; 
+<code>
 <a href="https://www.docker.com/" target="_blank">
 <img height="32" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png">
 </a>
