@@ -152,6 +152,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
+<a href="https://www.jenkins.io/" target="_blank">
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">
+</a>
+</code>
+&nbsp; 
+<code>
 <a href="https://www.w3schools.com/html/" target="_blank">
 <img height="32" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667">
 </a>
@@ -176,14 +182,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
-<a href="https://www.php.net/" target="_blank">
-<img height="32" src="https://logospng.org/download/php/logo-php-1024.png">
+<a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">
+<img height="32" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
 </a>
 </code>
 &nbsp; 
 <code>
-<a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">
-<img height="32" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
+<a href="https://www.php.net/" target="_blank">
+<img height="32" src="https://logospng.org/download/php/logo-php-1024.png">
 </a>
 </code>
 &nbsp; 
