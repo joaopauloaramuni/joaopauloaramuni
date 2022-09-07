@@ -158,6 +158,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
+<a href="https://pt-br.reactjs.org/" target="_blank">
+<img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png">
+</a>
+</code>
+&nbsp; 
+<code>
 <a href="https://www.mysql.com/" target="_blank">
 <img height="28" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png">
 </a>
