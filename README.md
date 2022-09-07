@@ -191,7 +191,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 
 <br />
 
-<div><b>return 0;</b></div>
+<div>
+
+Créditos: <b>Aramuni</b>
+Última atualização: 06/09/2022
+
+<b>return 0;</b>
+
+</div>
 
 -----
 <div>
