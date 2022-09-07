@@ -176,8 +176,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
-<a href="https://pt-br.reactjs.org/" target="_blank">
+<a href="https://www.php.net/" target="_blank">
 <img height="32" src="https://logospng.org/download/php/logo-php-1024.png">
+</a>
+</code>
+&nbsp; 
+<code>
+<a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">
+<img height="32" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
 </a>
 </code>
 &nbsp; 
