@@ -231,7 +231,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://aws.amazon.com/pt/" target="_blank">
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+<img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 </a>
 </code>
 &nbsp; 
@@ -249,13 +249,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://www.eclipse.org/downloads/" target="_blank">
-<img height="32" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png">
+<img width="32" height="32" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://code.visualstudio.com/" target="_blank">
-<img height="32" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
+<img width="32" height="32" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
 </a>
 </code>
 </div>
