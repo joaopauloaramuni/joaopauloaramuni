@@ -310,7 +310,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 <a href="https://www.youtube.com/watch?v=anypqg9428Y"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a>
 
 | Créditos: <a href="https://github.com/joaopauloaramuni">Aramuni</a> <br />
-| Última atualização: 07/09/2022 <br /><br />
+| Última atualização: 07/09/2022
 
 </div>
 </div>
