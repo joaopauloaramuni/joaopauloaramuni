@@ -38,6 +38,10 @@
   <img src="https://gcgosling.files.wordpress.com/2012/10/google-scholar-logo.png" width="48px" height="48px">
 </a>
 
+<a href="https://calendly.com/aramuni/">
+  <img src="https://seeklogo.com/images/C/calendly-logo-64058C8B39-seeklogo.com.png" width="48px" height="48px">
+</a>
+
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
   <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="48px" height="48px">
 </a>
@@ -45,6 +49,7 @@
 <a href="http://lattes.cnpq.br/1208427665892059">
   <img src="https://i.imgur.com/2iVxee6.png" width="48px" height="48px">
 </a>
+
 <br />
 <br />
 </div>
