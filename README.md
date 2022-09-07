@@ -85,7 +85,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="340px"/>
 </div>
 
-#### Meus interesses pessoais:
+### Meus interesses pessoais:
 
 <div align="justify">
 <p>
@@ -120,7 +120,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 
 <div>
 
-#### Linguagens e ferramentas:
+### Linguagens e ferramentas:
 
 <code>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
