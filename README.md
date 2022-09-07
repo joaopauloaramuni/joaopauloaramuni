@@ -51,7 +51,8 @@
 
 </div>
 
-<div><i>Olá 👋, sou o <b>Aramuni</b>, tenho 31 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>.</i> :computer:
+<div align="justify">
+<i>Olá 👋, sou o <b>Aramuni</b>, tenho 31 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou Tech Lead no time de currículo de ciência da computação na <a href="https://www.betrybe.com/">Trybe</a>.</i> :computer:
 </div>
 
 <br />
