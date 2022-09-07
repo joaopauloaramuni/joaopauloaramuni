@@ -304,7 +304,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 
 <div>
 <div>
-<img align="right" alt="Spotify" width="180px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
+<img align="right" alt="Spotify" width="160px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
 </div>
 <div>
 
