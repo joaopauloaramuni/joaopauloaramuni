@@ -117,7 +117,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://isocpp.org/" target="_blank">
-<img width="32" height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+<img width="32" height="32" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
 </a>
 </code>
 &nbsp; 
@@ -135,7 +135,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://openjfx.io/" target="_blank">
-<img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png">
+<img height="32" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png">
 </a>
 </code>
 &nbsp; 
@@ -147,7 +147,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://www.playframework.com/" target="_blank">
-<img width="32" height="32" src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png">
+<img height="32" src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png">
 </a>
 </code>
 &nbsp; 
