@@ -6,7 +6,7 @@
 
 -----
 
-<div>
+<div style="background-color: green;">
 
 <div>
 <img align="right" alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
