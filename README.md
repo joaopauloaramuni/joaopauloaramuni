@@ -195,7 +195,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://www.primefaces.org/" target="_blank">
-<img height="28" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng_solidBlack.png">
+<img height="28" src="https://avatars.githubusercontent.com/u/3494069?s=280&v=4">
 </a>
 </code>
 </div>
