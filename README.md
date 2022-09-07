@@ -105,127 +105,127 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://www.python.org/" target="_blank">
-<img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+<img width="32" height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://isocpp.org/" target="_blank">
-<img height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+<img width="32" height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png">
+<img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.java.com/pt-BR/" target="_blank">
-<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+<img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://openjfx.io/" target="_blank">
-<img height="32" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png">
+<img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.primefaces.org/" target="_blank">
-<img height="32" src="https://avatars.githubusercontent.com/u/3494069?s=280&v=4">
+<img width="32" height="32" src="https://avatars.githubusercontent.com/u/3494069?s=280&v=4">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.playframework.com/" target="_blank">
-<img height="32" src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png">
+<img width="32" height="32" src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.jenkins.io/" target="_blank">
-<img height="32" src="https://get.jenkins.io/art/jenkins-logo/headshot.svg">
+<img width="32" height="32" src="https://get.jenkins.io/art/jenkins-logo/headshot.svg">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.w3schools.com/html/" target="_blank">
-<img height="32" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667">
+<img width="32" height="32" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.w3schools.com/css/" target="_blank">
-<img height="32" src="https://camo.githubusercontent.com/f68dff6e71f5f47d3cbb727b0112b162b2cf32a1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667">
+<img width="32" height="32" src="https://camo.githubusercontent.com/f68dff6e71f5f47d3cbb727b0112b162b2cf32a1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.w3schools.com/js/" target="_blank">
-<img height="32" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
+<img width="32" height="32" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://pt-br.reactjs.org/" target="_blank">
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">
-<img height="32" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
+<img width="32" height="32" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.php.net/" target="_blank">
-<img height="32" src="https://logospng.org/download/php/logo-php-1024.png">
+<img width="32" height="32" src="https://logospng.org/download/php/logo-php-1024.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.mysql.com/" target="_blank">
-<img height="32" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png">
+<img width="32" height="32" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.postgresql.org/" target="_blank">
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png">
+<img width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.mongodb.com/pt-br" target="_blank">
-<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
+<img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://nodejs.org/en/" target="_blank">
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.lua.org/" target="_blank">
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
+<img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://www.docker.com/" target="_blank">
-<img height="32" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png">
+<img width="32" height="32" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png">
 </a>
 </code>
 &nbsp; 
@@ -237,13 +237,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://www.heroku.com/" target="_blank">
-<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png">
+<img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png">
 </a>
 </code>
 &nbsp; 
 <code>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-<img height="32" src="https://icons-for-free.com/iconfiles/png/512/dot+net+original-1324760529370819616.png">
+<img width="32" height="32" src="https://icons-for-free.com/iconfiles/png/512/dot+net+original-1324760529370819616.png">
 </a>
 </code>
 &nbsp; 
