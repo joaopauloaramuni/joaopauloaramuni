@@ -318,14 +318,13 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 
 -----
 
-![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) <br />
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <br />
-<img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" /> <br />
 
 
 <div>
-<img alt="visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&color=lightgrey"/>
-<img alt="followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&color=lightgrey"/>
 
 
 </div>
