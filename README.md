@@ -122,8 +122,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
-<a href="https://isocpp.org/" target="_blank">
-<img height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png">
 </a>
 </code>
 &nbsp; 
