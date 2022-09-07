@@ -261,7 +261,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 &nbsp; 
 <code>
 <a href="https://code.visualstudio.com/" target="_blank">
-<img width="32" height="32" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
+<img height="32" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
 </a>
 </code>
 </div>
