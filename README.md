@@ -281,3 +281,5 @@ Créditos: <b>Aramuni</b> <br />
 Última atualização: 06/09/2022 <br /><br />
 <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&color=lightgrey"/>
 </div>
+
+-----
