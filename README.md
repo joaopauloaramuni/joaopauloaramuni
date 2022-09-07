@@ -66,6 +66,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" height="340px"/>
 </div>
 
+-----
+
 <b>Meus interesses pessoais:</b>
 
 <p>
