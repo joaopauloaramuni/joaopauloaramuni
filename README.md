@@ -4,8 +4,6 @@
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
 </div>
 
-<br />
-
 -----
 
 <div>
