@@ -134,6 +134,18 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 </code>
 &nbsp; 
 <code>
+<a href="https://openjfx.io/" target="_blank">
+<img height="32" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png">
+</a>
+</code>
+&nbsp; 
+<code>
+<a href="https://www.primefaces.org/" target="_blank">
+<img height="32" src="https://avatars.githubusercontent.com/u/3494069?s=280&v=4">
+</a>
+</code>
+&nbsp; 
+<code>
 <a href="https://www.playframework.com/" target="_blank">
 <img height="32" src="https://www.playframework.com/assets/images/logos/3740142a5b6d7e5c73afc223f837c2ed-play_full_color.png">
 </a>
@@ -208,12 +220,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <code>
 <a href="https://www.heroku.com/" target="_blank">
 <img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png">
-</a>
-</code>
-&nbsp; 
-<code>
-<a href="https://www.primefaces.org/" target="_blank">
-<img height="32" src="https://avatars.githubusercontent.com/u/3494069?s=280&v=4">
 </a>
 </code>
 &nbsp; 
