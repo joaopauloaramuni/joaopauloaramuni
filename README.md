@@ -15,12 +15,13 @@
 </div>
 
 <div>
-<a href="https://github.com/joaopauloaramuni">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true)" width="48px" height="48px"/>
+  
+<a href="mailto:joaopauloaramuni@gmail.com">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="48px" height="48px"/>
 </a>
 
 <a href="mailto:joaopauloaramuni@gmail.com">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="48px" height="48px"/>
 </a>
 
 <a href="https://wa.me/5531980402103">
