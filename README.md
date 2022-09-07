@@ -299,3 +299,5 @@ Créditos: <a href="https://github.com/joaopauloaramuni">Aramuni</a> <br />
 </div>
 
 -----
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
