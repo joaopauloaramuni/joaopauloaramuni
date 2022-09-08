@@ -16,22 +16,22 @@
 <tr>
 <td>
 <a href="https://github.com/joaopauloaramuni">
-<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="48px"/>
+<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
 <a href="mailto:joaopauloaramuni@gmail.com">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
 <a href="https://wa.me/5531980402103">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
 <a href="https://www.instagram.com/joaopauloaramuni/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
