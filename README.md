@@ -1,5 +1,7 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! -->
 
+{::options parse_block_html="true" /}
+
 <style></style>
 
 
