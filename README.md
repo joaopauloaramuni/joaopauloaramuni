@@ -9,12 +9,6 @@
 -----
 
 <div>
-
-<div>
-<img align="right" alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
-</div>
-
-<div>
 <br />
 <table>
 <tr>
@@ -81,7 +75,6 @@
  
 <br />
 <br />
-</div>
 
 </div>
 
