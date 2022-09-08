@@ -139,7 +139,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-<img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/>
+<img height="20" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/>
 </a>
 </code>
 &nbsp; 
