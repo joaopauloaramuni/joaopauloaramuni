@@ -21,6 +21,7 @@
 | X | Y | A | B |
 | X | Y | A | B |
 
+<br />
 <table>
 <tr>
 <td>Contatos</td>
@@ -83,6 +84,7 @@
 </td>
 </tr>
 </table>
+ 
 <br />
 <br />
 </div>
