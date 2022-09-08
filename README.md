@@ -193,6 +193,8 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/soap.png"/></a></code>
+&nbsp; 
+<code><a href="https://jquery.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jquery.png"/></a></code>
 </div>
 
 -----
