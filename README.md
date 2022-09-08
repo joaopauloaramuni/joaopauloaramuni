@@ -1,13 +1,5 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! -->
 
-<style>
-    .heatMap th {
-        background: grey;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-</style>
-
-
 -----
 
 <div>
@@ -22,7 +14,7 @@
 <img align="right" alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </div>
 
-<div class="heatMap">
+<div>
 
 <a href="https://github.com/joaopauloaramuni">
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
