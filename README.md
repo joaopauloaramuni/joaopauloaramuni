@@ -321,7 +321,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 
 <div>
 <img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java">
-<img src="https://img.shields.io/badge/Python-Expert-blue_.svg?logo=python">
+<img src="https://img.shields.io/badge/Python-Expert-blue.svg?logo=python">
 <img src="https://img.shields.io/badge/TDD-Advocate-_.svg">
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg">
 <br />
