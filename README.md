@@ -158,27 +158,18 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src=https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
 &nbsp; 
 <code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
 &nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vbs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.php.net/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/php.png"/></a></code>
+&nbsp; 
 
 
-&nbsp; 
-<code>
-<a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vbs.png"/>
-</a>
-</code>
-&nbsp; 
-<code>
-<a href="https://www.php.net/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/php.png"/>
-</a>
-</code>
-&nbsp; 
 <code>
 <a href="https://www.mysql.com/" target="_blank">
 <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/>
