@@ -24,7 +24,7 @@
 <br />
 <table>
 <tr>
- <td width="100%">Contatos</td>
+ <td>Contatos</td>
 </tr> 
 <tr>
 <td>
