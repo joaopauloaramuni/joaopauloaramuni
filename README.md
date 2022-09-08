@@ -17,13 +17,9 @@
 <table>
   <tr>
     <td>kkk</td>
-
-    <td>kkk</td>
    </tr> 
    <tr>
       <td>kkkk</td>
-
-      <td>kkk</td>
   </tr>
 </table>
 
