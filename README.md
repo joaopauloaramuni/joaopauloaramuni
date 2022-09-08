@@ -148,11 +148,11 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/java.png"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/javafx.png"/></a></code>
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/javafx.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/primefaces.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.playframework.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
+<code><a href="https://www.playframework.com/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jenkins.svg"/></a></code>
 &nbsp; 
@@ -191,6 +191,8 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/eclipse.png"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/soap.png"/></a></code>
 </div>
 
 -----
