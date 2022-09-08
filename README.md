@@ -14,16 +14,6 @@
 <img align="right" alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </div>
 
-<table>
-  <tr>
-    <td>kkk</td>
-   </tr> 
-   <tr>
-      <td>kkkk</td>
-  </tr>
-</table>
-
-
 <div>
 
  X | Y | A | B | 
@@ -32,6 +22,9 @@
 | X | Y | A | B |
 
 <table>
+<tr>
+<td>Contatos</td>
+</tr> 
 <tr>
 <td>
 <a href="https://github.com/joaopauloaramuni">
