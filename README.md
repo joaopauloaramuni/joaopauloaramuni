@@ -8,8 +8,8 @@
 
 -----
 
-<div>
-<table width="100%">
+<div width="100%">
+<table>
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
