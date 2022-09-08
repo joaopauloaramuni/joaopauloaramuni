@@ -140,77 +140,32 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/c.png?raw=true"/>
-</a>
-</code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/c.png?raw=true"/></a></code>
 &nbsp; 
-<code>
-<a href="https://isocpp.org/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/cpp.svg"/>
-</a>
-</code>
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/cpp.svg"/></a></code>
 &nbsp; 
-<code>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/csharp.png"/>
-</a>
-</code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/csharp.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.java.com/pt-BR/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/java.png"/>
-</a>
-</code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/java.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://openjfx.io/" target="_blank">
-<img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/javafx.png"/>
-</a>
-</code>
+<code><a href="https://openjfx.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/javafx.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.primefaces.org/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/primefaces.png"/>
-</a>
-</code>
+<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/primefaces.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.playframework.com/" target="_blank">
-<img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/>
-</a>
-</code>
+<code><a href="https://www.playframework.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.jenkins.io/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jenkins.svg"/>
-</a>
-</code>
+<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jenkins.svg"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.w3schools.com/html/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/>
-</a>
-</code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/>
-</a>
-</code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src=https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.w3schools.com/js/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/>
-</a>
-</code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://pt-br.reactjs.org/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/>
-</a>
-</code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
+&nbsp; 
+
+
 &nbsp; 
 <code>
 <a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">
