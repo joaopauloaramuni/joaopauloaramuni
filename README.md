@@ -19,7 +19,15 @@
  X | Y | A | B | 
 | -- | -- | -- | -- |
 | X | Y | A | B |
-| X | Y | A | B |
+| <a href="https://github.com/joaopauloaramuni">
+<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
+</a> | <a href="https://github.com/joaopauloaramuni">
+<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
+</a> | <a href="https://github.com/joaopauloaramuni">
+<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
+</a> | <a href="https://github.com/joaopauloaramuni">
+<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
+</a> |
   
 <a href="https://github.com/joaopauloaramuni">
 <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
