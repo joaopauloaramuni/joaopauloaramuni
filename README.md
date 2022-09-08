@@ -174,61 +174,23 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/></a></code>
 &nbsp; 
-
-
-<code>
-<a href="https://nodejs.org/en/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/>
-</a>
-</code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.lua.org/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lua.png"/>
-</a>
-</code>
+<code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lua.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.docker.com/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png">
-</a>
-</code>
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://aws.amazon.com/pt/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/aws.svg"/>
-</a>
-</code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/aws.svg"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.heroku.com/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/>
-</a>
-</code>
+<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dotnet.png"/>
-</a>
-</code>
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dotnet.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.postman.com/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postman.png"/>
-</a>
-</code>
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postman.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://www.eclipse.org/downloads/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/eclipse.png"/>
-</a>
-</code>
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/eclipse.png"/></a></code>
 &nbsp; 
-<code>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/>
-</a>
-</code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
 </div>
 
 -----
