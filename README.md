@@ -14,10 +14,10 @@
 <img align="right" alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </div>
 
-<div>
+<div style="border: 3px solid red">
 
 <a href="https://github.com/joaopauloaramuni">
-<img style="border: 3px solid red" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
+<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
 </a>
 
 <a href="mailto:joaopauloaramuni@gmail.com">
