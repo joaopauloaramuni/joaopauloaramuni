@@ -36,22 +36,22 @@
 </td>
 <td>
 <a href="https://www.linkedin.com/in/joaopauloaramuni/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
 <a href="http://lattes.cnpq.br/1208427665892059">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lattes.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lattes.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
 <a href="https://slack.com/app_redirect?channel=UVD9N6VCL">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td> 
 <a href="https://discordapp.com/users/959151773728251914">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
