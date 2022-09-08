@@ -56,17 +56,17 @@
 </td>
 <td>
 <a href="https://www.skoob.com.br/perfil/Aramuni">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/skoob.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/skoob.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
 <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/scholar.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/scholar.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 <td>
 <a href="https://calendly.com/aramuni/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/calendar.png?raw=true" width="48px" height="48px"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/calendar.png?raw=true" width="50px" height="50px"/>
 </a>
 </td>
 </tr>
