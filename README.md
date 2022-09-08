@@ -168,26 +168,14 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code><a href="https://www.php.net/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/php.png"/></a></code>
 &nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postgresql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/></a></code>
+&nbsp; 
 
 
-<code>
-<a href="https://www.mysql.com/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/>
-</a>
-</code>
-&nbsp; 
-<code>
-<a href="https://www.postgresql.org/" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postgresql.png"/>
-</a>
-</code>
-&nbsp; 
-<code>
-<a href="https://www.mongodb.com/pt-br" target="_blank">
-<img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/>
-</a>
-</code>
-&nbsp; 
 <code>
 <a href="https://nodejs.org/en/" target="_blank">
 <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/>
