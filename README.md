@@ -15,16 +15,10 @@
 </div>
 
 <div>
-
- X | Y | A | B | 
-| -- | -- | -- | -- |
-| X | Y | A | B |
-| X | Y | A | B |
-
 <br />
 <table>
 <tr>
- <td colspan="11">Contatos</td>
+ <td align="center" colspan="11">Contatos</td>
 </tr> 
 <tr>
 <td>
