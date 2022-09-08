@@ -340,7 +340,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 
 <br />
 <img alt="GitHub trophy" width="400px" src="https://github-profile-trophy.vercel.app/?username=joaopauloaramuni&theme=onedark)" />
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
 <img src="https://img.shields.io/badge/Python-Expert-blue.svg?logo=Python">
 <img src="https://img.shields.io/badge/Java-Expert-blue.svg">
