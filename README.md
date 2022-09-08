@@ -152,7 +152,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/primefaces.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.playframework.com/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
+<code><a href="https://www.playframework.com/" target="_blank"><img width="40" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/play.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/jenkins.svg"/></a></code>
 &nbsp; 
