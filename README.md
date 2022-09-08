@@ -16,10 +16,11 @@
 
 <div>
 
- Everything |
+ Everything | in this table | is Centered | and the table will only take up 70% of the screen width | 
 | -- | -- | -- | -- |
 | This | is | a | Red Row |
 | This | is | an | Orange Row |
+| This | is | a | Green Row |
   
 <a href="https://github.com/joaopauloaramuni">
 <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="48px" height="48px"/>
