@@ -9,7 +9,7 @@
 -----
 
 <div>
-<table>
+<table width="100%">
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
