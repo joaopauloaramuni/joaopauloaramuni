@@ -137,9 +137,9 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
 
 <code>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
+
 <img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/>
-</a>
+
 </code>
 &nbsp; 
 <code>
