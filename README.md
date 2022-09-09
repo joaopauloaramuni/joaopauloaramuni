@@ -14,60 +14,27 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td>
-<a href="https://github.com/joaopauloaramuni">
-<img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://github.com/joaopauloaramuni"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="mailto:joaopauloaramuni@gmail.com">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="mailto:joaopauloaramuni@gmail.com"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="https://wa.me/5531980402103">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://wa.me/5531980402103"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="https://www.instagram.com/joaopauloaramuni/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://www.instagram.com/joaopauloaramuni/"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="https://www.linkedin.com/in/joaopauloaramuni/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://www.linkedin.com/in/joaopauloaramuni/"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="http://lattes.cnpq.br/1208427665892059">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lattes.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="http://lattes.cnpq.br/1208427665892059"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lattes.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="https://slack.com/app_redirect?channel=UVD9N6VCL">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td> 
-<a href="https://discordapp.com/users/959151773728251914">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/>
-</a>
+<td> <a href="https://discordapp.com/users/959151773728251914"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="https://www.skoob.com.br/perfil/Aramuni">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/skoob.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://www.skoob.com.br/perfil/Aramuni"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/skoob.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/scholar.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/scholar.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="https://calendly.com/aramuni/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/calendar.png?raw=true" width="50px" height="50px"/>
-</a>
+<td><a href="https://calendly.com/aramuni/"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/calendar.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -104,27 +71,16 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/">S
 <div align="justify">
 <p>
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/">Trybe</a>, atuo como Tech Lead de Currículo. Responsável pela <br /> 
-estrutura curricular de hard skills do módulo de Ciência da Computação.
-<br />
-- :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/">Universidade FUMEC</a>.
-<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c">aqui</a>.
-<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/master/Aramuni.c">uma linha</a>? :thinking:)
-<br />
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">aqui</a>.
-<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni">aqui</a>.
-<br />
-- :octocat:&nbsp; Tenho 2 gatos. Maju e Mingau.
-<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt">Mu online</a>, <a href="https://www.demolidores.com.br/">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/">basquete</a>, violão e guitarra.
-<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
-<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:joaopauloaramuni@gmail.com">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com">Trybe</a>.
-<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min">agenda</a> se quiser marcar um horário para falarmos.
-<br />
+estrutura curricular de hard skills do módulo de Ciência da Computação.<br />
+- :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/">Universidade FUMEC</a>.<br />
+- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/master/Aramuni.c">uma linha</a>? :thinking:)<br />
+- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao">aqui</a>.<br />
+- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni">aqui</a>.<br />
+- :octocat:&nbsp; Tenho 2 gatos. Maju e Mingau.<br />
+- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt">Mu online</a>, <a href="https://www.demolidores.com.br/">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/">basquete</a>, violão e guitarra.<br />
+- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:joaopauloaramuni@gmail.com">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com">Trybe</a>.<br />
+- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min">agenda</a> se quiser marcar um horário para falarmos.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
 </p>
 </div>
@@ -201,13 +157,9 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
-
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
-
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
- 
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
-
 </div>
 
 -----
@@ -218,13 +170,11 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 <img align="right" alt="Spotify" width="200px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
 </div>
 <div>
-
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
 <a href="https://www.youtube.com/watch?v=anypqg9428Y"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a>
 
 | Créditos: <a href="https://github.com/joaopauloaramuni">Aramuni</a> <br />
 | Última atualização: 08/09/2022
-
 </div>
 </div>
 
