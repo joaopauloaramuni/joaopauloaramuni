@@ -121,7 +121,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 <br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 <br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu email <a href="mailto:joaopauloaramuni@gmail.com">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com">Trybe</a>.
+- :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:joaopauloaramuni@gmail.com">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com">Trybe</a>.
 <br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min">agenda</a> se quiser marcar um horário para falarmos.
 <br />
