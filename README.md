@@ -170,7 +170,8 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 </div>
 <div>
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
-<a href="https://www.youtube.com/watch?v=anypqg9428Y"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a><br /><br />
+<a href="https://www.youtube.com/watch?v=anypqg9428Y"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a>
+<br /><br />
 | Créditos: <a href="https://github.com/joaopauloaramuni">Aramuni</a> <br />
 | Última atualização: 08/09/2022
 </div>
