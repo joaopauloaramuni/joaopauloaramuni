@@ -77,7 +77,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">pessoal</a> e esse é da <a href="mailto:joao.aramuni@betrybe.com" target="_blank">Trybe</a>.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059">Currículo Lattes</a> para mais informações.
+- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
 </div>
@@ -167,9 +167,9 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 </div>
 <div>
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
-<a href="https://www.youtube.com/watch?v=anypqg9428Y"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a>
+<a href="https://www.youtube.com/watch?v=anypqg9428Y" target="_blank"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a>
 <br /><br />
-| Créditos: <a href="https://github.com/joaopauloaramuni">Aramuni</a> <br />
+| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a> <br />
 | Última atualização: 09/09/2022
 </div>
 </div>
