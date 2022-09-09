@@ -236,6 +236,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.
 <img src="https://img.shields.io/badge/C-Enthusiast-blue.svg">
 <img src="https://img.shields.io/badge/TDD-Advocate-blue.svg">
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue.svg">
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue">
 <br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
