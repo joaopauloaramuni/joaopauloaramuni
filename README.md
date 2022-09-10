@@ -188,13 +188,15 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 </div>
 
+
+
 :snake: <b>Siga a comunidade mineira de Python, a <i>Python MG:</i></b><br /><br />
 <table>
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/pythonmg" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pythonmg.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="https://github.com/pythonmg" target="_blank"><img align="right"  src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pythonmg.png?raw=true" width="50px" height="50px"/></a></td>
 </tr>
 <tr>
  <td align="center" colspan="1"></td>
@@ -203,5 +205,11 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 
 -----
 
+<div>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a> <br />
 | Última atualização: 10/09/2022
+</div>
+
+-----
+
+
