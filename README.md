@@ -189,7 +189,6 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 </div>
 
 <div align="right">
-:snake: <b>Siga a comunidade mineira de Python, a <i>Python MG:</i></b><br /><br />
 <table>
 <tr>
  <td align="center" colspan="1"></td>
