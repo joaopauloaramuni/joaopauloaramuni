@@ -59,7 +59,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/" t
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="340px" height="350px"/>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="340px" height="340px"/>
 </div>
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Meus interesses pessoais:
