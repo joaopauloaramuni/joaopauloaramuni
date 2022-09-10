@@ -179,7 +179,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/" t
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/pythonmg" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pythonmg.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pythonmg.png?raw=true" width="50px" height="50px"/></a></td>
 </tr>
 <tr>
  <td align="center" colspan="1"></td>
