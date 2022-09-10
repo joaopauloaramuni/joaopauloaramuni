@@ -193,16 +193,11 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue">
 <br />
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue"/>
-<br />
+<br /><br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
-
-
-
 </div>
-
-
 
 -----
 
