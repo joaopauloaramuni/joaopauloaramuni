@@ -168,19 +168,6 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 <div>
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
 <a href="https://www.youtube.com/watch?v=anypqg9428Y" target="_blank"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a><br /><br />
-:snake: <b>Siga a comunidade mineira de Python, a <i>Python MG:</i></b><br /><br />
-<table>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/pythonmg" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pythonmg.png?raw=true" width="50px" height="50px"/></a></td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-<br />
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a> <br />
 | Última atualização: 10/09/2022
 </div>
