@@ -174,6 +174,17 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 -----
 
 <div>
+<table align="right">
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/pythonmg" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pythonmg.png?raw=true" width="50px" height="50px"/></a></td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
 <img src="https://img.shields.io/badge/Python-Expert-blue.svg?logo=Python">
 <img src="https://img.shields.io/badge/Java-Expert-blue.svg">
 <img src="https://img.shields.io/badge/C-Enthusiast-blue.svg">
@@ -186,18 +197,6 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
-
-<table align="right">
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/pythonmg" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/pythonmg.png?raw=true" width="50px" height="50px"/></a></td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
 
 
 
