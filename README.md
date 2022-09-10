@@ -187,7 +187,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 
-<tablealign="right">
+<table align="right">
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
