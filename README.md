@@ -163,7 +163,7 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 <div>
 <div>
 <img align="right" alt="Spotify list" width="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=8"/>
-<img align="right" alt="Spotify" width="200px" height="250px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
+<img align="right" alt="Spotify" width="200px" height="255px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
 </div>
 <div>
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
@@ -186,10 +186,8 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
-</div>
 
-<div align="right">
-<table>
+<tablealign="right">
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
@@ -200,7 +198,12 @@ estrutura curricular de hard skills do módulo de Ciência da Computação.<br /
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
+
+
+
 </div>
+
+
 
 -----
 
