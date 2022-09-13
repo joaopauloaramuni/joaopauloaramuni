@@ -185,12 +185,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/" t
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python">
-<img src="https://img.shields.io/badge/Java-Expert-blue">
-<img src="https://img.shields.io/badge/C-Enthusiast-blue">
-<img src="https://img.shields.io/badge/TDD-Advocate-blue">
-<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue">
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue">
+<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
+<img src="https://img.shields.io/badge/Java-Expert-blue"/>
+<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
+<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
+<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=blue"/>
 <br />
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a><br />
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/><br />
@@ -203,7 +204,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/" t
 
 <div>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a> <br />
-| Última atualização: 10/09/2022
+| Última atualização: 12/09/2022
 </div>
 
 -----
