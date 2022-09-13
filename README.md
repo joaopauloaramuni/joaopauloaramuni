@@ -192,7 +192,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/" t
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=blue"/>
-<img src="https://img.shields.io/badge/%3Astar%3A-If%20useful-blue/>
+<img src="https://img.shields.io/badge/%3Astar%3A-If%20useful-blue"/>
+<img src="https://img.shields.io/static/v1?label=%3Astar%3A&message=If%20useful&&color=blue"/>
+
 <br />
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a><br />
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/><br />
