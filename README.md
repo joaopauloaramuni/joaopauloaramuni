@@ -193,8 +193,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="http://ppg.fumec.br/sigc/" t
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue"/>
 <br />
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
+<img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white"/>
+<br />
+<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&style=style=flat&color=blue"/><br />
-<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/><br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
