@@ -168,7 +168,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </div>
 <div>
 :headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
-<a href="https://www.youtube.com/watch?v=pnGdK_SQlw8" target="_blank"><img width="300px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/trybefi.png" alt="Trybe-Fi"></a><br /><br /><br />
+<a href="https://www.youtube.com/watch?v=pnGdK_SQlw8" target="_blank"><img width="350px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/trybefi.png" alt="Trybe-Fi"></a><br /><br />
 </div>
 </div>
 
