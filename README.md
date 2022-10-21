@@ -210,5 +210,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a> <br />
 | Última atualização: 29/09/2022
 </div>
+<input type="checkbox">
+<input type="checkbox">
 
 -----
