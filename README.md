@@ -212,3 +212,5 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </div>
 
 -----
+
+![Snake animation](https://github.com/joaopauloaramuni/joaopauloaramuni/blob/output/github-contribution-grid-snake.svg)
