@@ -170,7 +170,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <a href="https://github.com/joaopauloaramuni" target="_blank"><img width="400px" height="260px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github-image.png" alt="github-image"></a><br />
 </div>
 </div>
-<br />
 
 -----
 
