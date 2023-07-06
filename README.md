@@ -133,6 +133,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 &nbsp; 
 <code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/lua.png"/></a></code>
 &nbsp; 
+<code><a href="https://www.swi-prolog.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/prolog.png"/></a></code>
+&nbsp; 
 <code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
 &nbsp; 
 <code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/aws.png"/></a></code>
