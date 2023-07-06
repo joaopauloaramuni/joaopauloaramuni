@@ -195,7 +195,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 <div>
 <div>
-<img align="right" alt="Spotify list" width="200px" height="265px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=8"/>
+<img align="right" alt="Spotify list" width="200px" height="265px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
 <img align="right" alt="Spotify" width="200px" height="265px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
 </div>
 <div>
