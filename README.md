@@ -264,6 +264,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <a href="https://open.spotify.com/user/22lih5eniohc7dawfxohlo7wy?si=45c49575a1ba4cb7" target="_blank"><img alt"Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://us05web.zoom.us/j/2425760565?pwd=aDR1L3RRY2x4U09iWDVTRWxxMjdmQT09" target="_blank"><img alt"Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a><br />
 <a href="https://meet.google.com/ova-vvcq-hbx" target="_blank"><img alt"Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
+<a href="https://slack.com/app_redirect?channel=UVD9N6VCL" target="_blank"><img alt"Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 <a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://orcid.org/
 0000-0001-7538-5927" target="_blank"><img alt"ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
