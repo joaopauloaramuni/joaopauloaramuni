@@ -229,7 +229,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
 <img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
 <img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
+<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
 <br />
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
 <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
