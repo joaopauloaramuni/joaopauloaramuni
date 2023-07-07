@@ -260,6 +260,7 @@ Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni
  <td align="center" colspan="1"></td>
 </tr>
 </table>
+<br />
 <table align="right">
 <tr>
  <td align="center" colspan="1"></td>
