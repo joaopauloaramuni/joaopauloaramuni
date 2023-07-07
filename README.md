@@ -268,7 +268,7 @@ Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni
 <a href="https://us05web.zoom.us/j/2425760565?pwd=aDR1L3RRY2x4U09iWDVTRWxxMjdmQT09" target="_blank"><img alt"Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a><br />
 <a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-&nbsp;
+<br />
 
 -----
 
