@@ -273,6 +273,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 0000-0001-7538-5927" target="_blank"><img alt"ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 <a href="https://www.twitch.tv/joaopauloaramuni" target="_blank"><img alt"twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/joaopauloaramuni" target="_blank"><img alt"hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/dcKhOAFaJ5cz" target="_blank"><img alt"skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
 <br /><br />
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a><br /> 
 | Última atualização: 07/07/2023
