@@ -246,7 +246,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 -----
 
 <div>
-<table height="20px" align="right">
+<table height="50px" align="right">
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
