@@ -248,7 +248,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <div>
 <table align="right">
 <tr>
- <td align="center" colspan="1">&nbsp;</td>
+ <td align="center" colspan="1">QR Code</td>
 </tr> 
 <tr>
 <td><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/qrcode-pix.png?raw=true" width="75px" height="75px"/></td>
