@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <b>Aramuni</b>, tenho 32 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou Tech Manager na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de equipes de múltiplos projetos de desenvolvimento de sistemas para o mercado de milhas aéreas. :airplane:</i><br />
+<i><b>Olá</b> :wave:, sou o <b>Aramuni</b>, tenho 32 anos, sou de BH e sou programador desde os 15 anos de idade. <code>Atualmente sou Tech Manager na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de equipes de múltiplos projetos de desenvolvimento de sistemas para o mercado de milhas aéreas.</code> :airplane:</i><br />
 </div>
 
 -----
@@ -66,7 +66,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 <div align="justify">
 <p>
-<code>
 - :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuo como Tech Manager, responsável pela liderança de <br />squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como Tech Lead de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
@@ -79,7 +78,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
-</code>
 </p>
 </div>
 </div>
