@@ -257,10 +257,9 @@ Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni
 </td>
 </tr>
 <tr>
- <td align="center" colspan="1"></td>
+ <td align="center" colspan="1">555</td>
 </tr>
 </table>
-<br />
 <a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5531980402103" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
