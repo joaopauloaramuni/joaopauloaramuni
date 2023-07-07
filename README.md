@@ -198,8 +198,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <img align="right" alt="Spotify" width="200px" height="275px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
 </div>
 <div>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img width="400px" height="130px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github-footer1.png" alt="github-footer1"></a><br />
-<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img width="400px" height="130px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github-footer2.png" alt="github-footer2"></a><br />
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img width="400px" height="100px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github-footer1.png" alt="github-footer1"></a><br />
+<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img width="400px" height="100px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github-footer2.png" alt="github-footer2"></a><br />
 </div>
 </div>
 
