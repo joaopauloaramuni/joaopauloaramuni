@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <b><code>Aramuni</code></b>, tenho 32 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Tech Manager</code> na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de equipes de múltiplos projetos de desenvolvimento de sistemas para o mercado de milhas aéreas. :airplane:</i><br />
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 32 anos, sou de BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Tech Manager</code> na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de equipes de múltiplos projetos de desenvolvimento de sistemas para o mercado de milhas aéreas. :airplane:</i><br />
 </div>
 
 -----
