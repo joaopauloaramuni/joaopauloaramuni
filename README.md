@@ -86,7 +86,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 <div>
 
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
+### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/soulgem.gif?raw=true"/>Linguagens e ferramentas:
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
 &nbsp; 
@@ -182,6 +182,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </div>
 
 -----
+
+### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/graphic.gif?raw=true"/>Github Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
