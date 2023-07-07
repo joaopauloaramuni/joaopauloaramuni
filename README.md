@@ -240,9 +240,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
- <br />
-<a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discordapp.com/users/959151773728251914" target="_blank"><img alt"Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 -----
@@ -250,6 +247,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <div>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a> <br />
 | Última atualização: 07/07/2023
+<a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discordapp.com/users/959151773728251914" target="_blank"><img alt"Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 -----
