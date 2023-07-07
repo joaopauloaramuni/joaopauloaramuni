@@ -265,6 +265,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <a href="https://us05web.zoom.us/j/2425760565?pwd=aDR1L3RRY2x4U09iWDVTRWxxMjdmQT09" target="_blank"><img alt"Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a><br />
 <a href="https://meet.google.com/ova-vvcq-hbx" target="_blank"><img alt"Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
 <a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://orcid.org/
+0000-0001-7538-5927" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 <br /><br /><br />
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">Aramuni</a><br /> 
 | Última atualização: 07/07/2023
