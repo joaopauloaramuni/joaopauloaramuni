@@ -226,7 +226,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue"/>
-<br />
 <img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
 <img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
 <img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
