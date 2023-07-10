@@ -288,20 +288,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <div>
 <table align="center">
 <tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/logo.png?raw=true" width="60px" height="60px"/></a>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2023 Aramuni</a><br />
 | Última atualização: 10/07/2023
 </td>
 </tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
 </table>
 </div>
 
