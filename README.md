@@ -254,13 +254,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <div>
 <table align="right">
 <tr>
- <td align="center" colspan="1">QR Code</td>
+ <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
 <td><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 <tr>
- <td align="center" colspan="1">Pix</td>
+ <td align="center" colspan="1"></td>
 </tr>
 </table>
 <a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
