@@ -200,7 +200,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <img align="right" alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
 </div>
 <div>
-<a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt"tweets" src="https://github-readme-twitter-gazf.vercel.app/api?id=joaoaramuni&layout=wide"/></a>
+<a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="300px" alt"tweets" src="https://github-readme-twitter-gazf.vercel.app/api?id=joaoaramuni&layout=wide"/></a>
 </div>
 </div>
 
@@ -296,10 +296,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </td>
 </tr>
 </table>
-<a href="https://twitter.com/joaoaramuni" target="_blank"><img alt"tweets" src="https://github-readme-twitter-gazf.vercel.app/api?id=joaoaramuni&layout=wide"/></a>
- <div>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/githubfooter1.png" alt="github-footer1"></a><br /><br />
-<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/githubfooter2.png" alt="github-footer2"></a>
+<div>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="right" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/githubfooter1.png" alt="github-footer1"></a><br /><br />
+<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="right" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/githubfooter2.png" alt="github-footer2"></a>
 </div>
 </div>
 
