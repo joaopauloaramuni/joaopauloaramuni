@@ -308,9 +308,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 -----
 
-<div align="center" width="400px" height="400px">
 [Charlie Brown Jr. - Céu Azul (Ao Vivo - Chegou Quem Faltava) (1080p).webm](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-</div>
 
 -----
 
