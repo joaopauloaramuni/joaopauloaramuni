@@ -197,7 +197,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <div>
 <div>
 <!--- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&width=400"/></a>
+<a href="" target="_blank"><img align="right" width="420px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&width=400"/></a>
 </div>
 <div>
 <img alt="Spotify" width="200px" height="275px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; &nbsp; 
