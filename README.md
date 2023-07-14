@@ -59,7 +59,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="340px" height="420px"/>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="340px" height="440px"/>
 </div>
 
 ### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
