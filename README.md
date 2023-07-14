@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 32 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Tech Manager</code> na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:</i> Também sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 32 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Tech Manager</code> na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas :airplane:.</i> Também sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. :man_teacher:<br />
 </div>
 
 -----
