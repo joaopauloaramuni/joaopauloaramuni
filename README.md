@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 32 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Tech Manager</code> na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:</i> Também sou professor nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 32 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Tech Manager</code> na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:</i> Também sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. :man_teacher:<br />
 </div>
 
 -----
@@ -301,7 +301,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </td>
 <td>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2023 Aramuni</a><br />
-| Última atualização: 13/07/2023
+| Última atualização: 14/07/2023
 </td>
 </tr>
 </table>
