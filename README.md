@@ -205,7 +205,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
 </div>
 <div>
+<details>
+<summary>Aramuni</summary>
+
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=22lih5eniohc7dawfxohlo7wy"> <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify"> </a>
+
+</details>
 </div>
 </div>
 
