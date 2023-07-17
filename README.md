@@ -306,24 +306,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 </div>
 <div>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="right" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/githubfooter1.png" alt="github-footer1"></a>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="right" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/githubfooter1.png" alt="github-footer1"></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="right" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/githubfooter2.png" alt="github-footer2"></a>
 <br /><br /><br /><br /><br /><br />
-</div>
-
------                                              
-
-<div align="center">
-
-```text
- █████╗ ██████╗  █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║   ██║████╗  ██║██║
-███████║██████╔╝███████║██╔████╔██║██║   ██║██╔██╗ ██║██║
-██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║
-██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```                                        
-
 </div>
 
 -----
