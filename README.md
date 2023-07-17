@@ -312,6 +312,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 ```                                        
 
 </div>
+
+-----
+
 <div>
 <table align="center">
 <tr>
@@ -326,7 +329,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </table>
 </div>
 
------
 
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
