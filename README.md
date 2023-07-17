@@ -300,11 +300,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 -----                                              
 
-<div>
-<table align="center">
-<tr>
-<td>
-
+<div align="center">
 ```text
  █████╗ ██████╗  █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗
 ██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║   ██║████╗  ██║██║
@@ -312,10 +308,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 ██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║
 ██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```
- 
-</td>
-</tr>
+```                                        
+</div>
+<div>
+<table align="center">
 <tr>
 <td>
 <a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/logo.png?raw=true" width="50px" height="50px"/></a>
@@ -341,18 +337,4 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 <div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/footer-gray.gif?raw=true"/>
-</div>
-
-<div align="center">
-
-
-```text
- █████╗ ██████╗  █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║   ██║████╗  ██║██║
-███████║██████╔╝███████║██╔████╔██║██║   ██║██╔██╗ ██║██║
-██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║
-██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```
-                                             
 </div>
