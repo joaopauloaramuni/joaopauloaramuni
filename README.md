@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 32 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>Tech Manager</code> na <a href="https://in8.com.br/" target="_blank">IN8</a> - Tecnologia e Desenvolvimento de Produtos Digitais, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas :airplane:.</i> Também sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> :man_teacher:.<br />
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 32 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> :man_teacher:.<br />
 </div>
 
 -----
@@ -66,7 +66,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuo como Tech Manager, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
+- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como Tech Manager, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou professor de Ciência da Computação,<br /> Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como Tech Lead de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :mortar_board: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
