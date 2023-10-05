@@ -22,7 +22,7 @@
 </td>
 <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopaulocarneiroaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -275,7 +275,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <td><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
-<a href="https://www.linkedin.com/in/joaopaulocarneiroaramuni/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5531980402103" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://discordapp.com/users/959151773728251914" target="_blank"><img alt"Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
