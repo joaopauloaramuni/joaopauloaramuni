@@ -165,8 +165,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 &nbsp;
 <code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/sqs.png"/></a></code>
 &nbsp;
-<code><a href="https://www.lua.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lua.png"/></a></code>
-&nbsp;
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/git.png"/></a></code>
 &nbsp; 
 <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gitlab.png"/></a></code>
@@ -178,6 +176,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 <code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/netbeans.png"/></a></code>
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png"/></a></code>
+&nbsp;
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png"/></a></code>
 &nbsp;
 <code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/xcode.png"/></a></code>
 </div>
