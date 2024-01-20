@@ -320,10 +320,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://sigc.fumec.br/" targ
 </tr> 
 <tr>
 <td>
-<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"></a>
+<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
 </td>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"></a>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
 </td>
 </tr>
 <tr>
