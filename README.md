@@ -106,7 +106,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://spring.io/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spring.png?raw=true"/></a></code>
+<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spring.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/play.png?raw=true"/></a></code>
 &nbsp;
