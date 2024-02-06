@@ -362,8 +362,3 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 <!--- Obrigado pela visita! -->
-
-<audio autoplay="autoplay" controls="controls">
-<source src="Windows_XP_startup_sound.mp3" type="audio/mp3" />
-seu navegador não suporta HTML5
-</audio>
