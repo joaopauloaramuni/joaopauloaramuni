@@ -304,7 +304,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin.gif?raw=true"/> LinkedIn Recommendations</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
 <div>
 <table>
 <tr>
