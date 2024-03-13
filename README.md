@@ -308,18 +308,20 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
 <table>
 <tr>
- <td align="center" colspan="2"></td>
+ <td align="center" colspan="1"></td>
 </tr> 
 <tr>
 <td>
-<img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R1.png?raw=true" alt="R1"/></a>
-</td>
-<td>
-<img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R2.png?raw=true" alt="R2"/></a>
+<img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R1.png?raw=true" alt="R1"/>
 </td>
 </tr>
 <tr>
- <td align="center" colspan="2"></td>
+<td>
+<img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R2.png?raw=true" alt="R2"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
 </tr> 
 </table>
 </div>
