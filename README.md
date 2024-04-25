@@ -26,7 +26,7 @@
 </td>
 <td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
