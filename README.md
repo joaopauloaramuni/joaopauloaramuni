@@ -198,7 +198,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://alamoti.net/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/alamoti.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.bb.com.br/site/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/bb?raw=true"/></a>
+<a href="https://www.bb.com.br/site/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/bb.jpeg?raw=true"/></a>
 </td>
 <td>
 <a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/capgemini.jpeg?raw=true"/></a>
