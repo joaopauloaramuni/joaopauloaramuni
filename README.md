@@ -217,7 +217,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://in8.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/in8.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://hotmilhas.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hotmilhas.jpeg?raw=true"/></a>
+<a href="https://hotmilhas.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hotmilhas.png?raw=true"/></a>
 </td>
 <td>
 <a href="https://123milhas.com/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/123milhas.png?raw=true"/></a>
