@@ -192,37 +192,51 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/handshake.gif?raw=true"/>&nbsp;Contratos que atuei:
 
+<div align="center">
 <table>
 <tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
 <td>
-<a href="https://alamoti.net/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/alamoti.jpeg?raw=true"/></a>
+<a href="https://alamoti.net/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/alamoti.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.bb.com.br/site/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/bb.jpeg?raw=true"/></a>
+<a href="https://www.bb.com.br/site/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/bb.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/capgemini.jpeg?raw=true"/></a>
+<a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/capgemini.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/anp.jpeg?raw=true"/></a>
+<a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/anp.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.prosegur.com.br/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/prosegur.jpeg?raw=true"/></a>
+<a href="https://www.prosegur.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/prosegur.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://in8.com.br/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/in8.jpeg?raw=true"/></a>
+<a href="https://in8.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/in8.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://hotmilhas.com.br/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hotmilhas.jpeg?raw=true"/></a>
+<a href="https://hotmilhas.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hotmilhas.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://123milhas.com/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/123milhas.jpeg?raw=true"/></a>
+<a href="https://123milhas.com/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/123milhas.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.betrybe.com/" target="_blank"><img width="72" height="72" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/trybe.jpeg?raw=true"/></a>
+<a href="https://www.betrybe.com/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/trybe.jpeg?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.xpeducacao.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/xpe.jpeg?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.fumec.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fumec.jpeg?raw=true"/></a>
 </td>
 </tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
 </table>
+</div>
 
 </div>
 
