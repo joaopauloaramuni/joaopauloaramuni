@@ -291,7 +291,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://rsdjournal.org/index.php/rsd/article/view/1979" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/rsd.jpg?raw=true"/></a>
 </td>
 <td>
-<a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/conexao.png?raw=true"/></a>
+<a href="https://www.cefet-rj.br/attachments/article/195/revista36_ago-dez2020_compressed.pdf" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/techcultura.jpg?raw=true"/></a>
 </td>
 <td>
 <a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/conexao.png?raw=true"/></a>
