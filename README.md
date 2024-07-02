@@ -268,6 +268,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://periodicos.cefetmg.br/index.php/revista-et/article/view/768" target="_blank"><img width="100" height="150" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/edtech.jpg?raw=true"/></a>
 </td>
 <td>
+<a href="https://periodicos.ufpb.br/index.php/mpgoa/article/view/43707/30214" target="_blank"><img width="100" height="150" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gestaoeaprendizagem.jpg?raw=true"/></a>
+</td>
+<td>
 <a href="https://periodicos.ufpb.br/ojs2/index.php/actas/article/view/43701" target="_blank"><img width="100" height="150" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/acta.png?raw=true"/></a>
 </td>
 <td>
@@ -278,9 +281,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
 <a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="100" height="150" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/conexao.png?raw=true"/></a>
-</td>
-<td>
-<a href="https://periodicos.ufpb.br/index.php/mpgoa/article/view/43707/30214" target="_blank"><img width="100" height="150" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gestaoeaprendizagem.jpg?raw=true"/></a>
 </td>
 </tr>
 <tr>
