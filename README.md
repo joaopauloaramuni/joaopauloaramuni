@@ -255,7 +255,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="7"></td>
+ <td align="center" colspan="8"></td>
 </tr> 
 <tr>
 <td>
@@ -279,9 +279,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <td>
 <a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="100" height="150" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/conexao.png?raw=true"/></a>
 </td>
+<td>
+<a href="https://www.fumec.br/revistas/sigc/article/view/2550" target="_blank"><img width="100" height="150" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cod31.jpg?raw=true"/></a>
+</td>
 </tr>
 <tr>
- <td align="center" colspan="7"></td>
+ <td align="center" colspan="8"></td>
 </tr> 
 </table>
 </div>
