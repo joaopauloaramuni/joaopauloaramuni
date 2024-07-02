@@ -113,7 +113,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 &nbsp;
 <code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/play.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.scala-lang.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/scala.png?raw=true"/></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dotnet.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/jenkins.svg?raw=true"/></a></code>
 &nbsp;
@@ -155,7 +155,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 &nbsp; 
 <code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/heroku.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dotnet.png?raw=true"/></a></code>
+<code><a href="https://fly.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fly.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postman.png?raw=true"/></a></code>
 &nbsp; 
