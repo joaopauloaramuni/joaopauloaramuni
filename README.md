@@ -353,20 +353,20 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Veja mais:
 
 <div align="center">
-<table align="center">
+<table>
 <tr>
  <td align="center">Alguns TCCs que orientei</td>
  <td align="center">Minha monografia (TCC),<br />dissertação e tese</td>
  <td align="center">Revista da qual sou avaliador</td>
 </tr> 
 <tr>
-<td>
+<td align="center">
 <a href="http://revista.fumec.br/index.php/computacaoesociedade/issue/view/378" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/compesoc.png?raw=true"/></a>
 </td>
-<td>
+<td align="center">
 <a href="https://github.com/joaopauloaramuni/trabalhos-finais" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/sigc.jpg?raw=true"/></a>
 </td>
-<td>
+<td align="center">
 <a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/rici.jpg?raw=true"/></a>
 </td>
 </tr>
