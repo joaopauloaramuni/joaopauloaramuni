@@ -353,10 +353,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Veja mais:
 
 <div align="center">
-<table>
+<table align="center">
 <tr>
  <td align="center">Alguns TCCs que orientei</td>
- <td align="center">Minha monografia (TCC), dissertação e tese</td>
+ <td align="center">Minha monografia (TCC),<br />dissertação e tese</td>
  <td align="center">Revista da qual sou avaliador</td>
 </tr> 
 <tr>
