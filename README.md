@@ -195,7 +195,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="13"></td>
+ <td align="center" colspan="7"></td>
 </tr> 
 <tr>
 <td>
@@ -208,6 +208,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/capgemini.png?raw=true"/></a>
 </td>
 <td>
+<a href="https://www.oi.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/oi.png?raw=true"/></a>
+</td>
+<td>
 <a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/anp.jpeg?raw=true"/></a>
 </td>
 <td>
@@ -216,6 +219,17 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <td>
 <a href="https://in8.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/in8.jpeg?raw=true"/></a>
 </td>
+</tr>
+<tr>
+ <td align="center" colspan="7"></td>
+</tr> 
+</table>
+
+<table>
+<tr>
+ <td align="center" colspan="7"></td>
+</tr> 
+<tr>
 <td>
 <a href="https://hotmilhas.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hotmilhas.jpeg?raw=true"/></a>
 </td>
@@ -239,9 +253,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
- <td align="center" colspan="13"></td>
+ <td align="center" colspan="7"></td>
 </tr> 
 </table>
+
+ 
 </div>
 
 </div>
