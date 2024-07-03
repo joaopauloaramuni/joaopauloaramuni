@@ -371,8 +371,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
- <td align="center" colspan="3"></td>
-</tr> 
+ <td align="center" colspan="3">Informações sobre orientação de TCC ou participação em bancas, entre em contato pelo meu email.</td>
+</tr>
 </table>
 
 </div>
