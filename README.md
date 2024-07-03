@@ -214,28 +214,28 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
-<a href="https://alamoti.net/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/alamoti.jpeg?raw=true"/></a>
+<a href="https://alamoti.net/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/alamoti.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://brazil.vallourec.com/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vsb.png?raw=true"/></a>
+<a href="https://brazil.vallourec.com/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vsb.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.bb.com.br/site/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/bb.png?raw=true"/></a>
+<a href="https://www.bb.com.br/site/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/bb.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/capgemini.png?raw=true"/></a>
+<a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/capgemini.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.oi.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/oi.png?raw=true"/></a>
+<a href="https://www.oi.com.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/oi.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/anp.jpeg?raw=true"/></a>
+<a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/anp.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.prosegur.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/prosegur2.jpg?raw=true"/></a>
+<a href="https://www.prosegur.com.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/prosegur2.jpg?raw=true"/></a>
 </td>
 <td>
-<a href="https://in8.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/in8.jpeg?raw=true"/></a>
+<a href="https://in8.com.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/in8.jpeg?raw=true"/></a>
 </td>
 </tr>
 <tr>
@@ -249,28 +249,28 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
-<a href="https://hotmilhas.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hotmilhas.png?raw=true"/></a>
+<a href="https://hotmilhas.com.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hotmilhas.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://123milhas.com/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/123milhas.png?raw=true"/></a>
+<a href="https://123milhas.com/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/123milhas.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.betrybe.com/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/trybe.jpeg?raw=true"/></a>
+<a href="https://www.betrybe.com/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/trybe.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.xpeducacao.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/xpe.jpeg?raw=true"/></a>
+<a href="https://www.xpeducacao.com.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/xpe.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.fumec.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fumec.jpeg?raw=true"/></a>
+<a href="https://www.fumec.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fumec.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.linkedin.com/company/laisfumec/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lais.jpeg?raw=true"/></a>
+<a href="https://www.linkedin.com/company/laisfumec/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lais.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://newtonpaiva.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/newton.jpeg?raw=true"/></a>
+<a href="https://newtonpaiva.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/newton.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.pucminas.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc.jpeg?raw=true"/></a>
+<a href="https://www.pucminas.br/" target="_blank"><img width="70" height="70" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/puc.jpeg?raw=true"/></a>
 </td>
 </tr>
 <tr>
