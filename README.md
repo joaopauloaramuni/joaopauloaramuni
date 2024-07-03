@@ -355,9 +355,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div align="center">
 <table>
 <tr>
- <td align="center">Alguns TCCs que orientei</td>
- <td align="center">Minha monografia (TCC),<br />dissertação e tese</td>
- <td align="center">Revista da qual sou avaliador</td>
+ <td align="center">Alguns TCCs que orientei:</td>
+ <td align="center">Minha monografia (TCC),<br />dissertação e tese:</td>
+ <td align="center">Revista da qual sou avaliador:</td>
 </tr> 
 <tr>
 <td align="center">
