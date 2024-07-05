@@ -358,7 +358,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <td align="center">Alguns TCCs que orientei:</td>
  <td align="center">Minha monografia (TCC),<br />dissertação e tese:</td>
  <td align="center">Revista da qual sou avaliador:</td>
- <td align="center">Parceria Newton Paiva e Colégio Santa Dorotéia:</td>
+ <td align="center">Parceria Newton Paiva e<br />Colégio Santa Dorotéia:</td>
 </tr> 
 <tr>
 <td align="center">
@@ -371,7 +371,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/rici.jpg?raw=true"/></a>
 </td>
 <td align="center">
-<a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/santadoroteia.png?raw=true"/></a>
+<a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="200" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/santadoroteia.png?raw=true"/></a>
 </td>
 </tr>
 <tr>
