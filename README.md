@@ -667,6 +667,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
+<div align="center">
+<a href="https://proex.pucminas.br/hackathon/">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hackathon.jpeg?raw=true"/>
+</a>
+</div>
+
+-----
+
 <div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
