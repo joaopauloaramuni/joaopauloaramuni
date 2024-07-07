@@ -656,6 +656,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/star.gif?raw=true"/>&nbsp;Stargazers e Forkers:
+
 <div align="center">
 <a href="https://github.com/joaopauloaramuni/joaopauloaramuni/stargazers">
   <img src="https://reporoster.com/stars/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
@@ -663,6 +667,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://github.com/joaopauloaramuni/joaopauloaramuni/network/members">
   <img src="https://reporoster.com/forks/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
 </a>
+</div>
+
 </div>
 
 -----
