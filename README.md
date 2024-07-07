@@ -685,6 +685,23 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </div>
 
+<div>
+
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Outros eventos
+</summary>
+<br />
+<div align="center">
+<a href="https://sudeste.python.org.br/">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonsudeste.svg?raw=true"/>
+</a>
+</div>
+</details>
+
+</div>
+
+-----
+
 -----
 
 <div>
