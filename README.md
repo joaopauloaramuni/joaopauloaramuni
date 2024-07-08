@@ -693,7 +693,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <br />
 <div align="center">
 <a href="https://thedevconf.com/tdc/2024/index.html">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/tdc.jpg?raw=true"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/tdc.jpg?raw=true" width="700"/>
 </a>
 <a href="https://devopsdays.org/events/2024-rio-de-janeiro/welcome/">
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/devopsdays.png?raw=true" width="700"/>
