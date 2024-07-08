@@ -692,6 +692,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </summary>
 <br />
 <div align="center">
+<a href="https://2024.pythonbrasil.org.br/">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonbr.png?raw=true" width="700"/>
+</a>
 <a href="https://thedevconf.com/tdc/2024/index.html">
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/tdc.jpg?raw=true" width="700"/>
 </a>
