@@ -637,6 +637,22 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
 <table>
 <tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true" width="425px" height="75px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+</div>
+
+<div>
+<table>
+<tr>
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
@@ -650,22 +666,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
  <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
-<div>
-<table>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true" width="425px" height="75px"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
 </tr> 
 </table>
 </div>
