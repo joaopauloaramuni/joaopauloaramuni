@@ -625,7 +625,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/orgs/agencia-experimental-de-software" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo_agencia.png?raw=true" width="300px" height="75px"/></a>
+<a href="https://github.com/agencia-experimental-de-software" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo_agencia.png?raw=true" width="300px" height="75px"/></a>
 </td>
 </tr>
 <tr>
