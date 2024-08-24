@@ -619,7 +619,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 -----
 
 <div>
-<table align="right" width="300px">
+<table align="right">
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
@@ -635,7 +635,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 <div>
-<table width="425px">
+<table>
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
@@ -650,8 +650,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 </div>
 
-<div>
-<table width="425px">
+<div width="425px">
+<table>
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
