@@ -650,7 +650,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 </div>
 
-<div width="425px">
+<div>
 <table>
 <tr>
  <td align="center" colspan="2"></td>
@@ -661,7 +661,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 07/07/2024
+| Última atualização: 24/08/2024
 </td>
 </tr>
 <tr>
