@@ -661,7 +661,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
- <td align="center" colspan="1">:shirt: Compre a camisa do curso <a href="https://www.vestecw.com.br/buscar?q=engenharia+de+software" target="_blank">aqui</a>.</td>
+ <td align="center" colspan="1">:shirt: Compre a camisa do seu curso <a href="https://www.vestecw.com.br/buscar?q=engenharia+de+software" target="_blank">aqui</a>.</td>
 </tr> 
 </table>
 </div>
