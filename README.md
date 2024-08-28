@@ -385,10 +385,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
  <td align="center">
-<a href="http://revista.fumec.br/index.php/pe/article/view/6203" target="_blank"><img width="310" height="230" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cemei.jpg?raw=true"/></a>
+<a href="http://revista.fumec.br/index.php/pe/article/view/6203" target="_blank"><img width="300" height="250" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cemei.jpg?raw=true"/></a>
 </td>
 <td align="center">
-<a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="310" height="230" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/santadoroteia.png?raw=true"/></a>
+<a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="300" height="250" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/santadoroteia.png?raw=true"/></a>
 </td>
 </tr>
 <tr>
