@@ -9,9 +9,9 @@
  <td align="center" colspan="3"></td>
 </tr>
 <tr>
- <td align="center"><img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-aeds1.png?raw=true"/></td>
- <td align="center"><img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-devlabs.png?raw=true"/></td>
- <td align="center"><img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-spring.png?raw=true"/></td>
+ <td align="center"><img align="center" alt="aeds1" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-aeds1.png?raw=true"/></td>
+ <td align="center"><img align="center" alt="devlabs" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-devlabs.png?raw=true"/></td>
+ <td align="center"><img align="center" alt="spring" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-spring.png?raw=true"/></td>
 </tr> 
 <tr>
  <td align="center" colspan="3"></td>
