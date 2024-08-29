@@ -3,6 +3,26 @@
 -----
 
 <div>
+
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+<tr>
+ <td align="center"><img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-aeds1.png?raw=true"/></td>
+ <td align="center"><img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-devlabs.png?raw=true"/></td>
+ <td align="center"><img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-spring.png?raw=true"/></td>
+</tr> 
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+
+</div>
+
+-----
+
+<div>
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header_aramuni.png?raw=true"/>
 </div>
 
