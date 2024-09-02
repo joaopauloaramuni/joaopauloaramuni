@@ -401,7 +401,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <table>
 <tr>
  <td align="center">Parceria Universidade Fumec e<br />Prefeitura de Belo Horizonte:</td>
- <td align="center">Parceria Centro Universitário Newton Paiva e<br />Colégio Santa Dorotéia:</td>
+ <td align="center">Parceria Newton Paiva e<br />Colégio Santa Dorotéia:</td>
   <td align="center">Parceria PUC Minas e<br />AWS Academy:</td>
 </tr> 
 <tr>
