@@ -474,13 +474,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
 <td>
-<img alt="GitHub Commits" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
 </td>
 <td>
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Repo" width="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopauloaramuni&repo=joaopauloaramuni&theme=dark"/>
+<img alt="GitHub Repo" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopauloaramuni&repo=joaopauloaramuni&theme=dark"/>
 </td>
 </tr>
 <tr>
