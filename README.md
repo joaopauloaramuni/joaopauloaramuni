@@ -700,7 +700,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
 <td>
-<a href="https://github.com/PiyushSuthar/github-readme-quotes" target="_blank"><img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/></a>
+<img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
 </td>
 <tr>
 <tr>
