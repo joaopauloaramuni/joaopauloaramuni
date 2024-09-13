@@ -500,7 +500,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  
 <table>
 <tr>
- <td align="center" colspan="1"></td>
+ <td align="center" colspan="1">GitHub Streak Stats</td>
 </tr>
 <tr>
 <td>
