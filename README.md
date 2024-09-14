@@ -855,7 +855,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/google2.gif?raw=true"/>&nbsp;DevFest - PUC Minas - Unidade Praça da Liberdade:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/google2.gif?raw=true"/>&nbsp;DevFest - GDG - PUC Minas - Unidade Praça da Liberdade:
 
 <div align="center">
 <a href="https://www.sympla.com.br/evento/devfest-belo-horizonte/2586443">
