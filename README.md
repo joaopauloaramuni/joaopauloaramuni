@@ -765,7 +765,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
- <td align="center" colspan="1"></td>
+ <td align="center" colspan="1">:camera: Siga o curso de Engenharia de Software no <a href="https://www.instagram.com/engsoftwarepucminas" target="_blank">Instagram</a>.</td>
 </tr> 
 </table>
 </div>
