@@ -362,7 +362,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <!--
 <a href="https://www.fumec.br/revistas/sigc/article/view/2550" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cod31.jpg?raw=true"/></a>
 -->
-<a href="https://repositorio.fumec.br/handle/123456789/270" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cod31.jpg?raw=true"/></a>
+<a href="https://repositorio.fumec.br/handle/123456789/2/discover?query=Aramuni" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cod31.jpg?raw=true"/></a>
 </td>
 </tr>
 <tr>
