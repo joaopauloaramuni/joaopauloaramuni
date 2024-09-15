@@ -102,6 +102,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 - :briefcase: Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
 - :man_teacher: Também fui <code>professor</code> de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
 - :trophy: Fui o professor destaque do curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
+- :mortar_board: Fui o patrono da turma de Ciência da Computação da <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a> no primeiro semestre de 2020.<br />
 - :atom: Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>. (Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
 - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
 - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
