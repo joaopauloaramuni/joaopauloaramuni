@@ -587,6 +587,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
 <img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
 <img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
+<img src="https://img.shields.io/badge/Remix-Dev-blue?logo=Remix"/>
 <img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
 <img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
