@@ -589,6 +589,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
 <img src="https://img.shields.io/badge/Remix-Dev-blue?logo=Remix"/>
 <img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/S3-Dev-blue?logo=amazons3"/>
+<img src="https://img.shields.io/badge/EC2-Dev-blue?logo=amazonec2"/>
+<img src="https://img.shields.io/badge/Cloud%20Watch-Dev-blue?logo=amazoncloudwatch"/>
 <img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
 <img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
 <img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
