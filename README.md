@@ -1,8 +1,5 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
-<img src="https://github.com/sponsors/joaopauloaramuni/card"/>
-
-
 ----- 
 
 <div>
