@@ -1,7 +1,7 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
 <picture>
-  <img src="github-metrics.svg" alt="Metrics">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github-metrics.svg" alt="Metrics">
 </picture>
 
 ----- 
