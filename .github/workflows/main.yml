@@ -17,7 +17,10 @@ jobs:
       - name: 🗃️ Base content - Default metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
       - name: 📅 Isometric commit calendar - Full-year calendar
         uses: lowlighter/metrics@latest
         with:
