@@ -45,7 +45,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-          plugin_people_limit: 72
+          plugin_people_limit: 96
       - name: Terminal
         uses: lowlighter/metrics@latest
         with:
