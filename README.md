@@ -521,7 +521,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </picture>
 <td>
 <picture>
-  <img width="400px" src="metrics.plugin.starlists.languages.svg" alt="Metrics">
+  <img width="400px" src="metrics.plugin.stargazers.graph.svg" alt="Metrics">
 </picture>
 </td>
 </tr>
