@@ -520,32 +520,16 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
 <td>
 <picture>
-  <img width="250px" src="metrics.classic.svg" alt="Metrics">
+  <img width="300px" src="metrics.classic.svg" alt="Metrics">
 </picture>
 <td>
 <picture>
-  <img width="250px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+  <img width="300px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
 </picture>
 </td>
 </tr>
 <tr>
  <td align="center" colspan="2"></td>
-</tr> 
-</table>
-
-<table>
-<tr>
- <td align="center" colspan="1">GitHub Metrics</td>
-</tr>
-<tr>
-<td>
-<picture>
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</picture>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
 </tr> 
 </table>
 
