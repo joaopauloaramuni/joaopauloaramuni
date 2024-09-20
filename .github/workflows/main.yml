@@ -29,13 +29,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Repositories traffic
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
-          plugin_traffic: yes
       - name: Recently starred
         uses: lowlighter/metrics@latest
         with:
@@ -74,6 +67,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
+      #- name: Repositories traffic
+        #uses: lowlighter/metrics@latest
+        #with:
+          #filename: metrics.plugin.traffic.svg
+          #token: ${{ secrets.METRICS_TOKEN }}
+          #base: repositories
+          #plugin_traffic: yes
       #- name: Icons
         #uses: lowlighter/metrics@latest
         #with:
