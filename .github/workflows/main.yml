@@ -64,6 +64,14 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+      - name: Followers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.people.followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers
       - name: Terminal
         uses: lowlighter/metrics@latest
         with:
