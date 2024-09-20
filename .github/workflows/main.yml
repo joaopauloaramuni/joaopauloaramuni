@@ -29,13 +29,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Terminal
-        uses: lowlighter/metrics@latest
-        with:
-          template: terminal
-          filename: metrics.terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, metadata
       - name: Repositories traffic
         uses: lowlighter/metrics@latest
         with:
@@ -43,4 +36,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_traffic: yes
-          
+      - name: With worldmap
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.worldmap.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+          plugin_stargazers_worldmap_sample: 200
+      - name: Terminal
+        uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
