@@ -29,6 +29,13 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - name: Terminal
+        uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
       - name: Repositories traffic
         uses: lowlighter/metrics@latest
         with:
