@@ -69,16 +69,26 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-      - name: GitHub Skyline
+      - name: Watchers
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.skyline.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.people.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2024
-          plugin_skyline_frames: 120
-          plugin_skyline_quality: 1
+          template: repository
+          repo: metrics
+          plugin_people: yes
+          plugin_people_types: watchers
+      #- name: GitHub Skyline
+        #uses: lowlighter/metrics@latest
+        #with:
+          #filename: metrics.plugin.skyline.svg
+          #token: NOT_NEEDED
+          #base: ""
+          #plugin_skyline: yes
+          #plugin_skyline_year: 2024
+          #plugin_skyline_frames: 120
+          #plugin_skyline_quality: 1
       #- name: Using graph charts
         #uses: lowlighter/metrics@latest
         #with:
