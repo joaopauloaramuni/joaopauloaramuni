@@ -69,7 +69,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-      - name: Watchers
+      - name: Contributors, stargazers, watchers, sponsors
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.people.repository.svg
@@ -78,7 +78,7 @@ jobs:
           template: repository
           repo: metrics
           plugin_people: yes
-          plugin_people_types: watchers
+          plugin_people_types: contributors, stargazers, watchers, sponsors
       #- name: GitHub Skyline
         #uses: lowlighter/metrics@latest
         #with:
