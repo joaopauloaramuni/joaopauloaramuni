@@ -69,16 +69,26 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-      - name: Contributors, stargazers, watchers, sponsors
+      - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.people.repository.svg
+          filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          template: repository
-          repo: metrics
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+      #- name: Contributors, stargazers, watchers, sponsors
+        #uses: lowlighter/metrics@latest
+        #with:
+          #filename: metrics.plugin.people.repository.svg
+          #token: ${{ secrets.METRICS_TOKEN }}
+          #base: ""
+          #template: repository
+          #repo: metrics
+          #plugin_people: yes
+          #plugin_people_types: contributors, stargazers, watchers, sponsors
       #- name: GitHub Skyline
         #uses: lowlighter/metrics@latest
         #with:
