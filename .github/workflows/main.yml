@@ -69,6 +69,16 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2024
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
       #- name: Using graph charts
         #uses: lowlighter/metrics@latest
         #with:
