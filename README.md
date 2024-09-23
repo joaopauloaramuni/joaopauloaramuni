@@ -961,6 +961,20 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 -----
 
 <div>
+
+:octocat: &nbsp;GitHub Student Developer Pack:
+
+<div align="center">
+<a href="https://education.github.com/pack">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/GSDP.png?raw=true"/>
+</a>
+</div>
+
+</div>
+
+-----
+
+<div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
 
