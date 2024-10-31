@@ -408,7 +408,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
  <td align="center">Parceria Universidade Fumec e<br />Prefeitura de Belo Horizonte:</td>
  <td align="center">Parceria Newton Paiva e<br />Colégio Santa Dorotéia:</td>
-  <td align="center">Parceria PUC Minas e<br />AWS Academy:</td>
+  <td align="center">Revista SprinTi - PUC Minas:</td>
 </tr> 
 <tr>
  <td align="center">
@@ -422,7 +422,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">:man_teacher: Parcerias e Projetos de Extensão.</td>
+<td align="center" colspan="3">:man_teacher: Projetos de Extensão, Parcerias e Trabalhos Interdisciplinas.</td>
 </tr>
 </table>
 
