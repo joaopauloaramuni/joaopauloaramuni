@@ -422,7 +422,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">:man_teacher: Projetos de Extensão, Parcerias e Trabalhos Interdisciplinas.</td>
+<td align="center" colspan="3">:man_teacher: Projetos de Extensão, Parcerias e Trabalhos Interdisciplinares.</td>
 </tr>
 </table>
 
