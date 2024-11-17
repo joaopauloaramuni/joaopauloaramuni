@@ -981,8 +981,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | 07:00-08:40 |------------|------------|------------|------------|------------|
 | 08:50-10:30 | Projeto de Software |------------|------------|------------|------------|
 | 10:40-12:20 | Laboratório de Desenvolvmento de Software |------------|------------| Projeto de Software |------------|
-| 19:00-20:40 | TIS3 - Aplicações para cenários reais | Fundamentos de Projeto e Análise de Algoritmos |------------| Projeto de Software | Laboratório de Desenvolvimento de Software |
-| 20:50-22:30 | Projeto de Software | Laboratório de Experimentação de Software |------------| Laboratório de Desenvolvimento de Software | Laboratório de Experimentação de Software |
+| 19:00-20:40 | TIS3 - Aplicações para cenários reais | (LOURDES) Fundamentos de Projeto e Análise de Algoritmos |------------| Projeto de Software | (LOURDES) Laboratório de Desenvolvimento de Software |
+| 20:50-22:30 | Projeto de Software | (LOURDES) Laboratório de Experimentação de Software |------------| Laboratório de Desenvolvimento de Software | (LOURDES) Laboratório de Experimentação de Software |
 |-------------|------------|------------|------------|------------|------------|
 
 ----- 
