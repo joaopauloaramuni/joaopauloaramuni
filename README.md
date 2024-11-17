@@ -995,11 +995,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | ${\color{orange}Horário}$ | ${\color{orange}Segunda}$ | ${\color{orange}Terça}$ | ${\color{orange}Quarta}$ | ${\color{orange}Quinta}$ | ${\color{orange}Sexta}$ |
 |-------------|------------|------------|------------|------------|------------|
 | ${\color{orange}07:00-08:40}$ |--|--|--|--|--|
-| ${\color{orange}08:50-10:30}$ | ${\color{magenta}(COREU)}$ Projeto de Software |--|--|--|--|
-| ${\color{orange}10:40-12:20}$ | ${\color{violet}(COREU)}$ Laboratório de Desenvolvmento de Software |--|--| (COREU) Projeto de Software |--|
+| ${\color{orange}08:50-10:30}$ | ${\color{violet}(COREU)}$ Projeto de Software |--|--|--|--|
+| ${\color{orange}10:40-12:20}$ | ${\color{violet}(COREU)}$ Laboratório de Desenvolvmento de Software |--|--| ${\color{violet}(COREU)}$ Projeto de Software |--|
 | ${\color{orange}17:00-19:00}$ |--|OFICINAS|OFICINAS|--|OFICINAS|
-| ${\color{orange}19:00-20:40}$ | ${\color{brown}(COREU)}$ TIS3 - Aplicações para cenários reais | (LOURDES) Fundamentos de Projeto e Análise de Algoritmos |--| (COREU) Projeto de Software | (LOURDES) Laboratório de Desenvolvimento de Software G2 |
-| ${\color{orange}20:50-22:30}$ | (COREU) Projeto de Software | (LOURDES) Laboratório de Experimentação de Software G1 |--| (COREU) Laboratório de Desenvolvimento de Software G1 | (LOURDES) Laboratório de Experimentação de Software G2 |
+| ${\color{orange}19:00-20:40}$ | ${\color{violet}(COREU)}$ TIS3 - Aplicações para cenários reais | (LOURDES) Fundamentos de Projeto e Análise de Algoritmos |--| ${\color{violet}(COREU)}$ Projeto de Software | (LOURDES) Laboratório de Desenvolvimento de Software G2 |
+| ${\color{orange}20:50-22:30}$ | ${\color{violet}(COREU)}$ Projeto de Software | (LOURDES) Laboratório de Experimentação de Software G1 |--| ${\color{violet}(COREU)}$ Laboratório de Desenvolvimento de Software G1 | (LOURDES) Laboratório de Experimentação de Software G2 |
 
 ----- 
 
