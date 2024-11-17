@@ -997,7 +997,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | ${\color{orange}07:00-08:40}$ |--|--|--|--|--|
 | ${\color{orange}08:50-10:30}$ | ${\color{violet}(COREU)}$ Projeto de Software |--|--|--|--|
 | ${\color{orange}10:40-12:20}$ | ${\color{violet}(COREU)}$ Laboratório de Desenvolvmento de Software |--|--| ${\color{violet}(COREU)}$ Projeto de Software |--|
-| ${\color{orange}17:00-19:00}$ |--|OFICINAS|OFICINAS|--|OFICINAS|
+| ${\color{orange}17:00-19:00}$ |--|${\color{cyan}OFICINAS}$|${\color{cyan}OFICINAS}$|--|${\color{cyan}OFICINAS}$|
 | ${\color{orange}19:00-20:40}$ | ${\color{violet}(COREU)}$ TIS3 - Aplicações para cenários reais | ${\color{olive}(LOURDES)}$ Fundamentos de Projeto e Análise de Algoritmos |--| ${\color{violet}(COREU)}$ Projeto de Software | ${\color{olive}(LOURDES)}$ Laboratório de Desenvolvimento de Software G2 |
 | ${\color{orange}20:50-22:30}$ | ${\color{violet}(COREU)}$ Projeto de Software | ${\color{olive}(LOURDES)}$ Laboratório de Experimentação de Software G1 |--| ${\color{violet}(COREU)}$ Laboratório de Desenvolvimento de Software G1 | ${\color{olive}(LOURDES)}$ Laboratório de Experimentação de Software G2 |
 
