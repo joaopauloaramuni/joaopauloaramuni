@@ -974,6 +974,19 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
+:watch: Horários 1° Sem 2025:
+
+| Horário     | Segunda    | Terça      | Quarta     | Quinta     | Sexta      |
+|-------------|------------|------------|------------|------------|------------|
+| 07:00-08:40 |------------|------------|------------|------------|------------|
+| 08:50-10:30 | Projeto de Software |------------|------------|------------|------------|
+| 10:40-12:20 | Laboratório de Desenvolvmento de Software |------------|------------| Projeto de Software |------------|
+| 19:00-20:40 | TIS3 - Aplicações para cenários reais | Fundamentos de Projeto e Análise de Algoritmos |------------| Projeto de Software | Laboratório de Desenvolvimento de Software |
+| 20:50-22:30 | Projeto de Software | Laboratório de Experimentação de Software |------------| Laboratório de Desenvolvimento de Software | Laboratório de Experimentação de Software |
+|-------------|------------|------------|------------|------------|------------|
+
+----- 
+
 <div>
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
