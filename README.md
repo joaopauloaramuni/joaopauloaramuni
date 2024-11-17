@@ -979,11 +979,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | Horário     | Segunda    | Terça      | Quarta     | Quinta     | Sexta      |
 |-------------|------------|------------|------------|------------|------------|
 | 07:00-08:40 |------------|------------|------------|------------|------------|
-| 08:50-10:30 | Projeto de Software |------------|------------|------------|------------|
-| 10:40-12:20 | Laboratório de Desenvolvmento de Software |------------|------------| Projeto de Software |------------|
-| 19:00-20:40 | TIS3 - Aplicações para cenários reais | (LOURDES) Fundamentos de Projeto e Análise de Algoritmos |------------| Projeto de Software | (LOURDES) Laboratório de Desenvolvimento de Software |
-| 20:50-22:30 | Projeto de Software | (LOURDES) Laboratório de Experimentação de Software |------------| Laboratório de Desenvolvimento de Software | (LOURDES) Laboratório de Experimentação de Software |
-|-------------|------------|------------|------------|------------|------------|
+| 08:50-10:30 | (COREU) Projeto de Software |------------|------------|------------|------------|
+| 10:40-12:20 | (COREU) Laboratório de Desenvolvmento de Software |------------|------------| (COREU) Projeto de Software |------------|
+| 19:00-20:40 | (COREU) TIS3 - Aplicações para cenários reais | (LOURDES) Fundamentos de Projeto e Análise de Algoritmos |------------| (COREU) Projeto de Software | (LOURDES) Laboratório de Desenvolvimento de Software |
+| 20:50-22:30 | (COREU) Projeto de Software | (LOURDES) Laboratório de Experimentação de Software |------------| (COREU) Laboratório de Desenvolvimento de Software | (LOURDES) Laboratório de Experimentação de Software |
 
 ----- 
 
