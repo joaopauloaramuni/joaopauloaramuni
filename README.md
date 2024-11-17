@@ -918,6 +918,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/calendar.gif?raw=true"/>&nbsp;Eventos
+</summary>
+<br />
+<div align="center">
+
+<div>
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hacker.gif?raw=true"/>&nbsp;Hackathon PUC Minas:
 
 <div align="center">
@@ -927,8 +935,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 </div>
-
------
 
 <div>
 
@@ -941,14 +947,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 </div>
-
-<div>
-
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/calendar.gif?raw=true"/>&nbsp;Outros eventos
-</summary>
-<br />
-<div align="center">
+ 
 <a href="https://2024.pythonbrasil.org.br/">
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonbr.png?raw=true" width="700px"/>
 </a>
