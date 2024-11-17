@@ -995,7 +995,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | ${\color{orange}Horário}$ | ${\color{orange}Segunda}$ | ${\color{orange}Terça}$ | ${\color{orange}Quarta}$ | ${\color{orange}Quinta}$ | ${\color{orange}Sexta}$ |
 |-------------|------------|------------|------------|------------|------------|
 | ${\color{orange}07:00-08:40}$ |--|--|--|--|--|
-| ${\color{orange}08:50-10:30}$ | ${\color{violet}(COREU)}$ Projeto de Software |--|--|--|--|
+| ${\color{orange}08:50-10:30}$ | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--|--|--|--|
 | ${\color{orange}10:40-12:20}$ | ${\color{violet}(COREU)}$ Laboratório de Desenvolvmento de Software |--|--| ${\color{violet}(COREU)}$ Projeto de Software |--|
 | ${\color{orange}17:00-19:00}$ |--|${\color{cyan}OFICINAS}$|${\color{cyan}OFICINAS}$|--|${\color{cyan}OFICINAS}$|
 | ${\color{orange}19:00-20:40}$ | ${\color{violet}(COREU)}$ TIS3 - Aplicações para cenários reais | ${\color{olive}(LOURDES)}$ Fundamentos de Projeto e Análise de Algoritmos |--| ${\color{violet}(COREU)}$ Projeto de Software | ${\color{olive}(LOURDES)}$ Laboratório de Desenvolvimento de Software G2 |
