@@ -994,7 +994,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | 08:50-10:30    | ${\color{red}(COREU) Projeto de Software}$ | ${\color{green}--}$   | ${\color{blue}--}$    | ${\color{purple}--}$  | ${\color{orange}--}$|
 | 10:40-12:20    | ${\color{red}(COREU) Laboratório de Desenvolvimento de Software}$ | ${\color{green}--}$ | ${\color{blue}(COREU) Projeto de Software}$ | ${\color{purple}--}$  | ${\color{orange}--}$|
 | 19:00-20:40    | ${\color{red}(COREU) TIS3 - Aplicações para cenários reais}$ | ${\color{green}(LOURDES) Fundamentos de Projeto e Análise de Algoritmos}$ | ${\color{blue}--}$ | ${\color{purple}(COREU) Projeto de Software}$ | ${\color{orange}(LOURDES) Laboratório de Desenvolvimento de Software G2}$|
-| 20:50-22:30    | ${\color{red}(COREU) Projeto de Software}$ | ${\color{green}(LOURDES) Laboratório de Experimentação de Software G1}$ | ${\color{blue}--}$ | ${\color{purple}(COREU) Laboratório de Desenvolvimento de Software G1}$ | ${\color{orange}(LOURDES) Laboratório de Experimentação de Software G2}$|
+| 20:50-22:30    | ${\color{red}(COREU) Projeto de Software}$ | ${\color{green}(LOURDES) Laboratório de Experimentação de Software G1}$ | ${\color{blue}--}$ | ${\color{purple}(COREU) Laboratório de Desenvolvimento de Software G1}$ | ${\color{orange}\texttt{(LOURDES) Laboratório de Experimentação de Software G2}}$ |
 
 
 <div>
