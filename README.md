@@ -459,6 +459,24 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 <table>
 <tr>
+ <td align="center">GitHub Streak Stats</td>
+ <td align="center"><a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+</tr>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</td>
+<td>
+<img src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="GitHub Trends" />
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
+<table>
+<tr>
  <td align="center" colspan="3"></td>
 </tr> 
 <tr>
@@ -485,24 +503,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
  <td align="center" colspan="3"></td>
-</tr> 
-</table>
-<table>
-<tr>
- <td align="center">GitHub Trends</td>
- <td align="center">GitHub Streak Stats</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="GitHub Trends" />
-</td>
-<td>
-<img src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
- <td align="center"><a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
- <td align="center"></td>
 </tr> 
 </table>
 </div>
