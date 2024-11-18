@@ -519,7 +519,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <table>
 <tr>
- <td align="center" colspan="2">GitHub Metrics</td>
+ <td align="center" colspan="2">:octocat: GitHub Metrics</td>
 </tr>
 <tr>
 <td>
