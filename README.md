@@ -459,7 +459,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 <table>
 <tr>
- <td align="center"><a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:octocat:<a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
  <td align="center">GitHub Streak Stats</td>
 </tr>
 <tr>
