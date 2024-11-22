@@ -648,6 +648,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
 <img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
 <img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
+<img src="https://img.shields.io/badge/Heroku-Dev-blue?logo=heroku"/>
+<img src="https://img.shields.io/badge/Fly.io-Dev-blue?logo=flydotio"/>
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
 <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
