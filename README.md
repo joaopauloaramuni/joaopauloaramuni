@@ -520,46 +520,30 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
 <td>
-<picture>
-  <img width="400px" src="metrics.classic.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.classic.svg" alt="Metrics">
 <td>
-<picture>
-  <img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<picture>
-  <img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
 <td>
-<picture>
-  <img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<picture>
-  <img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
 <td>
-<picture>
-  <img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<picture>
-  <img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
 <td>
-<picture>
-  <img width="400px" src="metrics.terminal.svg" alt="Metrics">
-</picture>
+<img width="400px" src="metrics.terminal.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
