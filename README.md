@@ -460,14 +460,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:octocat: <a href="https://streak-stats.demolab.com?user=joaopauloaramuni" target="_blank">GitHub Streak Stats</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@353fdbc4-c6bd-4e5b-af96-09771e55bf57">WakaTime</a></td>
 </tr>
 <tr>
 <td>
 <img src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="GitHub Trends" />
 </td>
 <td>
-<img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
