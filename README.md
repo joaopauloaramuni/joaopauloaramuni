@@ -371,18 +371,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 </table>
 
-<table>
-<tr>
- <td align="center"></td>
-</tr>
-<tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github-user-contribution.svg?raw=true"/></a></td>
-</tr>
-<tr>
- <td align="center"></td>
-</tr> 
-</table>
-
 </div>
 
 </div>
@@ -517,6 +505,19 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <td align="center" colspan="3"></td>
 </tr>
 </table>
+
+<table>
+<tr>
+ <td align="center"></td>
+</tr>
+<tr>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github-user-contribution.svg?raw=true"/></a></td>
+</tr>
+<tr>
+ <td align="center"></td>
+</tr> 
+</table>
+
 </div>
 </div>
 
