@@ -9,9 +9,9 @@
  <td align="center" colspan="3"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-aeds1.png?raw=true"/></a></td>
- <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-devlabs.png?raw=true"/></a></td>
- <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-spring.png?raw=true"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-aeds1-2.png?raw=true"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-devlabs-2.png?raw=true"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-spring-v2.png?raw=true"/></a></td>
 </tr>
 <tr>
  <td align="center">:movie_camera: <a href="https://tinyurl.com/equipe-aeds1" target="_blank">Equipe AEDS1 (Gravações)</a></td>
