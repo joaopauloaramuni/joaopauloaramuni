@@ -1,5 +1,26 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
- 
+
+----- 
+
+<div>
+
+<table>
+<tr>
+ <td align="center"></td>
+</tr>
+<tr>
+ <td align="center"><img align="center" alt="oficinas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aramuni-oficinas.jpeg?raw=true"/></td>
+</tr>
+<tr>
+ <td align="center">Oficinas semanais de desenvolvimento de software</td>
+</tr>
+<tr>
+ <td align="center"></td>
+</tr> 
+</table>
+
+</div>
+
 ----- 
 
 <div>
