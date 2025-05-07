@@ -963,6 +963,18 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
+:snake: Python Sudeste 2025 - PUC Minas - Unidade Lourdes:
+
+<div align="center">
+<a href="https://2025.sudeste.python.org.br/">
+  <img width="700px" height="367px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonsudeste2.png?raw=true"/>
+</a>
+</div>
+
+</div>
+
+<div>
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/hacker.gif?raw=true"/>&nbsp;Hackathon PUC Minas:
 
 <div align="center">
