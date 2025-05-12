@@ -971,7 +971,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div align="center">
 <a href="https://2025.sudeste.python.org.br/">
-  <img width="700px" height="367px" src="https://joaopauloaramuni.github.io/image/pythonsudeste2.png?raw=true"/>
+  <img alt="pythonsudeste" src="https://joaopauloaramuni.github.io/image/pythonsudeste2.png?raw=true"/>
 </a>
 </div>
 
