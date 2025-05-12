@@ -955,8 +955,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </div>
 
-<!-- 
-
 -----
 
 <div>
@@ -978,6 +976,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 </div>
+
+<!--
 
 <div>
 
@@ -1002,7 +1002,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 </div>
- 
+
+<div>
 <a href="https://2024.pythonbrasil.org.br/">
   <img src="https://joaopauloaramuni.github.io/image/pythonbr.png?raw=true" width="700px"/>
 </a>
@@ -1023,11 +1024,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </a>
 </div>
 
+-->
+
 </details>
 
 </div>
-
--->
 
 -----
 
