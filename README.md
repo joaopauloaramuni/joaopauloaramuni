@@ -1003,7 +1003,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </div>
 
-<div>
 <a href="https://2024.pythonbrasil.org.br/">
   <img src="https://joaopauloaramuni.github.io/image/pythonbr.png?raw=true" width="700px"/>
 </a>
@@ -1022,9 +1021,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://www.awswomencommunitybrasil.com/">
   <img src="https://joaopauloaramuni.github.io/image/awsomewomensummit.png?raw=true" width="700px"/>
 </a>
-</div>
 
 -->
+
+</div>
 
 </details>
 
