@@ -9,7 +9,7 @@
  <td align="center"></td>
 </tr>
 <tr>
- <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/aramuni-oficinas.jpeg"/></td>
+ <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/aramuni-oficinas.jpeg?raw=true"/></td>
 </tr>
 <tr>
  <td align="center">:computer: Oficinas semanais de desenvolvimento de software</td>
