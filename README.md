@@ -555,34 +555,34 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
 <td>
-<img width="400px" src="metrics.classic.svg" alt="Metrics">
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.classic.svg" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stars.svg" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.activity.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="metrics.terminal.svg" alt="Metrics">
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.terminal.svg" alt="Metrics">
 </td>
 </tr>
 <tr>
