@@ -861,7 +861,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
-<a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank"><img src="https://joaopauloaramuni.github.io/image/engsoft.png?raw=true" width="425px" height="75px"/></a>
+<a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank"><img src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true" width="425px" height="75px"/></a>
 </td>
 </tr>
 <tr>
