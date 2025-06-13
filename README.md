@@ -318,7 +318,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://newtonpaiva.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/newton.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.pucminas.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/puc2.jpeg?raw=true"/></a>
+<a href="https://www.pucminas.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/puc2.jpg?raw=true"/></a>
 </td>
 </tr>
 <tr>
