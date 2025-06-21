@@ -40,6 +40,11 @@
  <td align="center">:movie_camera: <a href="https://tinyurl.com/equipe-springboot" target="_blank">Equipe Spring Boot (Gravações)</a></td>
 </tr>
 <tr>
+ <td align="center">:movie_camera: <a href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PROJETOS" target="_blank">📁 Projetos</a></td>
+ <td align="center">:movie_camera: <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">🗂️ Projetos</a></td>
+ <td align="center">:movie_camera: <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/tree/main/PROJETOS" target="_blank">📁 Projetos</a></td>
+</tr>
+<tr>
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
