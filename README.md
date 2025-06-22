@@ -874,7 +874,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
       </td>
       </tr>
       <tr>
-       <td align="center" colspan="1">Acesse a **Landing Page** da Agência Experimental de Software <a href="https://icei.pucminas.br/aes" target="_blank">aqui</a>.</td>
+       <td align="center" colspan="1">Acesse a <a href="https://icei.pucminas.br/aes" target="_blank">Landing Page</a> da Agência Experimental de Software.</td>
       </tr> 
       </table>
      </div>
