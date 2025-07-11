@@ -422,7 +422,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://github.com/joaopauloaramuni/trabalhos-finais" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/sigc.jpg?raw=true"/></a>
 </td>
 <td align="center">
-<a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rici.jpg?raw=true"/></a>
+<a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rici2.jpg?raw=true"/></a>
 </td>
 </tr>
 <tr>
