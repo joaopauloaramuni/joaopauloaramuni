@@ -102,6 +102,18 @@
 
 -----
 
+## ⭐ Ajude a reconhecer meu trabalho open source!
+
+Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**!
+
+O programa destaca desenvolvedores que contribuem ativamente com a comunidade open source no GitHub.
+
+🔗 **Indique aqui:** [https://stars.github.com/nominate/](https://stars.github.com/nominate/)
+
+Muito obrigado pelo apoio! 🙌  
+
+-----
+
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
