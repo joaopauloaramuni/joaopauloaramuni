@@ -958,7 +958,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
           🚀 Se você gosta dos meus projetos de código aberto, considere me indicar para o programa <b>GitHub Stars</b>!<br />
           🌐 O programa destaca devs que contribuem ativamente com a comunidade open source no GitHub.</p>
           <p> 🔗 <b>Indique aqui:</b> <a href="https://stars.github.com/nominate/" target="_blank">https://stars.github.com/nominate/</a><br />
-          📈 Somando todos os meus repositórios, já compartilhei mais de <b>250.000 linhas de código</b> com a comunidade.</p>
+          📈 Somando os repositórios, já compartilhei mais de <b>250.000 linhas de código</b> com a comunidade.</p>
           🌟 Muito obrigado pelo apoio! 🙌
         </div>
       </td>
