@@ -958,7 +958,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/star.gif?raw=true"/>&nbsp;Ajude a reconhecer meu trabalho open source!
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/star.gif?raw=true"/>&nbsp;Nominate a Star:
+
+Ajude a reconhecer meu trabalho open source!
 
 Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**!
 
