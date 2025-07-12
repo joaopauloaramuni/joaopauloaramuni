@@ -157,18 +157,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
-## ⭐ Ajude a reconhecer meu trabalho open source!
-
-Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**!
-
-O programa destaca desenvolvedores que contribuem ativamente com a comunidade open source no GitHub.
-
-🔗 **Indique aqui:** [https://stars.github.com/nominate/](https://stars.github.com/nominate/)
-
-Muito obrigado pelo apoio! 🙌  
-
------
-
 <div>
 
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
@@ -963,6 +951,22 @@ Muito obrigado pelo apoio! 🙌
   <img src="https://reporoster.com/forks/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
 </a>
 </div>
+
+</div>
+
+-----
+
+<div>
+
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/star.gif?raw=true"/>&nbsp;Ajude a reconhecer meu trabalho open source!
+
+Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**!
+
+O programa destaca desenvolvedores que contribuem ativamente com a comunidade open source no GitHub.
+
+🔗 **Indique aqui:** [https://stars.github.com/nominate/](https://stars.github.com/nominate/)
+
+Muito obrigado pelo apoio! 🙌  
 
 </div>
 
