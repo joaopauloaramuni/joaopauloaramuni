@@ -940,23 +940,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
-<div>
-
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/star.gif?raw=true"/>&nbsp;Stargazers e Forkers:
-
-<div align="center">
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/stargazers">
-  <img src="https://reporoster.com/stars/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
-</a>
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/network/members">
-  <img src="https://reporoster.com/forks/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
-</a>
-</div>
-
-</div>
-
------
-
  <div>
   <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/star.gif?raw=true"/>&nbsp;Nominate a Star:
   <table>
@@ -972,9 +955,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
       <td>
       <div>
         Ajude a reconhecer meu trabalho open source!<br/>
-        Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**!<br/>
+        Se você gosta dos meus projetos de código aberto, considere me indicar para o programa <b>GitHub Stars</b>!  <br/>
         O programa destaca desenvolvedores que contribuem ativamente com a comunidade open source no GitHub.<br/>
-        🔗 **Indique aqui:** <a href="https://stars.github.com/nominate/" target="_blank">https://stars.github.com/nominate/</a><br/>
+        🔗 <b>Indique aqui:</b> <a href="https://stars.github.com/nominate/" target="_blank">https://stars.github.com/nominate/</a><br/>
         Muito obrigado pelo apoio! 🙌
        </div>
       </td>
@@ -983,6 +966,23 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
       <td align="center" colspan="2"></td>
     </tr> 
   </table>
+</div>
+
+-----
+
+<div>
+
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/star.gif?raw=true"/>&nbsp;Stargazers e Forkers:
+
+<div align="center">
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/stargazers">
+  <img src="https://reporoster.com/stars/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
+</a>
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/network/members">
+  <img src="https://reporoster.com/forks/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
+</a>
+</div>
+
 </div>
 
 -----
