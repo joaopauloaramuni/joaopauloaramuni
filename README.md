@@ -970,10 +970,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
       </td>
       <td>
       <div>
-        Ajude a reconhecer meu trabalho open source!  
-        Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**!  
-        O programa destaca desenvolvedores que contribuem ativamente com a comunidade open source no GitHub.  
-        🔗 **Indique aqui:** <a href="https://stars.github.com/nominate/" target="_blank">https://stars.github.com/nominate/</a>  
+        Ajude a reconhecer meu trabalho open source!<br/>
+        Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**!<br/>
+        O programa destaca desenvolvedores que contribuem ativamente com a comunidade open source no GitHub.<br/>
+        🔗 **Indique aqui:** <a href="https://stars.github.com/nominate/" target="_blank">https://stars.github.com/nominate/</a><br/>
         Muito obrigado pelo apoio! 🙌
        </div>
       </td>
