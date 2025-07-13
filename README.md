@@ -950,7 +950,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
     <tr>
       <td>
         <a href="https://stars.github.com/nominate/" target="_blank">
-          <img src="https://joaopauloaramuni.github.io/image/github-stars-logo.png?raw=true" width="85px" height="85px"/>
+          <img src="https://joaopauloaramuni.github.io/image/github-stars-logo.png?raw=true" width="90px" height="90px"/>
         </a>
       </td>
       <td>
