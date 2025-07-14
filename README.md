@@ -1032,11 +1032,23 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-:snake: Python Sudeste 2025 - PUC Minas - Unidade Lourdes:
+🐍 Python Sudeste 2025 - PUC Minas - Unidade Lourdes:
 
 <div align="center">
 <a href="https://2025.sudeste.python.org.br/">
   <img alt="pythonsudeste" src="https://joaopauloaramuni.github.io/image/pythonsudeste2.png?raw=true"/>
+</a>
+</div>
+
+</div>
+
+<div>
+
+📅 DevFest 2025 - GDG - PUC Minas - Unidade Lourdes:
+
+<div align="center">
+<a href="https://www.instagram.com/p/DMFmRNYOryz/">
+  <img alt="devfest" src="https://joaopauloaramuni.github.io/image/devfest2.jpeg?raw=true"/>
 </a>
 </div>
 
