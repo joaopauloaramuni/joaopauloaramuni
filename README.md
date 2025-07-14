@@ -1044,11 +1044,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
+<br />
+
 📅 DevFest 2025 - GDG - PUC Minas - Unidade Lourdes:
 
 <div align="center">
 <a href="https://www.instagram.com/p/DMFmRNYOryz/">
-  <img alt="devfest" src="https://joaopauloaramuni.github.io/image/devfest2.jpeg?raw=true"/>
+  <img height="675px" alt="devfest" src="https://joaopauloaramuni.github.io/image/devfest2.jpeg?raw=true"/>
 </a>
 </div>
 
