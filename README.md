@@ -331,6 +331,41 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 </table>
 
+<table>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://www.policiamilitar.mg.gov.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/pmmg.png?raw=true"/></a>
+</td>
+<td>
+<a href="https://bhtec.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/bhtec.jpg?raw=true"/></a>
+</td>
+<td>
+<a href="https://mariopenna.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/mariopenna.png?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.jedis.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/jedis.png?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.jedis.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/jedis.png?raw=true"/></a>
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+</table>
+
 </div>
 
 </div>
