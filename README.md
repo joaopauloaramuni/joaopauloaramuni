@@ -334,10 +334,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <a href="https://bhtec.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/bhtec.jpg?raw=true"/></a>
 </td>
 <td>
- <a href="https://www.jedis.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/jedis.png?raw=true"/></a>
+ <a href="https://icei.pucminas.br/aes" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aes.jpeg?raw=true"/></a>
 </td>
 <td>
- <a href="https://icei.pucminas.br/aes" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aes.jpeg?raw=true"/></a>
+ <a href="https://www.jedis.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/jedis.png?raw=true"/></a>
 </td>
 <td>
  <a href="https://github.com/joaopauloaramuni" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
