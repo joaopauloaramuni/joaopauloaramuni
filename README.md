@@ -293,9 +293,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
  <td align="center" colspan="8"></td>
-</tr>
-<tr>
- <td align="center" colspan="8"></td>
 </tr> 
 <tr>
 <td>
@@ -323,9 +320,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://www.pucminas.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/puc2.jpg?raw=true"/></a>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="8"></td>
-</tr> 
 <tr>
  <td align="center" colspan="8"></td>
 </tr> 
