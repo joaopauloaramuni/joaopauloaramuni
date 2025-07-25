@@ -768,7 +768,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/linkedin2.gif?raw=true"/> LinkedIn Recommendations (8/50)</summary>
+<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/linkedin2.gif?raw=true"/> LinkedIn Recommendations (10/50)</summary>
 <div>
 <table>
 <tr>
@@ -776,42 +776,52 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R7.png?raw=true" alt="R7"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR1.png?raw=true" alt="LR1"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R8.png?raw=true" alt="R8"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR2.png?raw=true" alt="LR2"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R1.png?raw=true" alt="R1"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR3.png?raw=true" alt="LR3"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R2.png?raw=true" alt="R2"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR4.png?raw=true" alt="LR4"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R3.png?raw=true" alt="R3"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR5.png?raw=true" alt="LR5"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R4.png?raw=true" alt="R4"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR6.png?raw=true" alt="LR6"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R5.png?raw=true" alt="R5"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR7.png?raw=true" alt="LR7"/>
 </td>
 </tr>
 <tr>
 <td>
-<img align="center" src="https://joaopauloaramuni.github.io/image/R6.png?raw=true" alt="R6"/>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR8.png?raw=true" alt="LR8"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR9.png?raw=true" alt="LR9"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/LR10.png?raw=true" alt="LR10"/>
 </td>
 </tr>
 <tr>
