@@ -773,7 +773,17 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <table>
 <tr>
  <td align="center" colspan="1"></td>
-</tr> 
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R7.png?raw=true" alt="R7"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://joaopauloaramuni.github.io/image/R8.png?raw=true" alt="R8"/>
+</td>
+</tr>
 <tr>
 <td>
 <img align="center" src="https://joaopauloaramuni.github.io/image/R1.png?raw=true" alt="R1"/>
