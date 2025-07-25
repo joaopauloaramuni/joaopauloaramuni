@@ -14,9 +14,6 @@
 <tr>
  <td align="center">:computer: Oficinas semanais de desenvolvimento de software</td>
 </tr>
-<tr>
- <td align="center"></td>
-</tr> 
 </table>
 
 </div>
@@ -539,6 +536,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 </tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
 <tr>
 <td>
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
