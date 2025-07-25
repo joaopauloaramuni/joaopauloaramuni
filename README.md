@@ -41,9 +41,6 @@
  <td align="center">📁 <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">Projetos do DevLabs</a></td>
  <td align="center">📁 <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/tree/main/PROJETOS" target="_blank">Projetos de Spring Boot</a></td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
 </table>
 
 </div>
