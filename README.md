@@ -780,9 +780,15 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
 <td>
 <img align="center" src="https://joaopauloaramuni.github.io/image/LR2.png?raw=true" alt="LR2"/>
 </td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
 </tr>
 <tr>
 <td>
@@ -790,9 +796,15 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
 <td>
 <img align="center" src="https://joaopauloaramuni.github.io/image/LR4.png?raw=true" alt="LR4"/>
 </td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
 </tr>
 <tr>
 <td>
@@ -800,9 +812,15 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
 <td>
 <img align="center" src="https://joaopauloaramuni.github.io/image/LR6.png?raw=true" alt="LR6"/>
 </td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
 </tr>
 <tr>
 <td>
@@ -810,14 +828,23 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 </tr>
 <tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
 <td>
 <img align="center" src="https://joaopauloaramuni.github.io/image/LR8.png?raw=true" alt="LR8"/>
 </td>
 </tr>
 <tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
 <td>
 <img align="center" src="https://joaopauloaramuni.github.io/image/LR9.png?raw=true" alt="LR9"/>
 </td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
 </tr>
 <tr>
 <td>
