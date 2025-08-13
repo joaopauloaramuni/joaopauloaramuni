@@ -111,7 +111,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
-<td width="500px" >
+<td width="600px" >
 <div align="justify">
 <p> 
 - :man_teacher: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação. Também sou <code>CTO</code> da Agência Experimental de Software do ICEI - Instituto de Ciências Exatas e Informática.<br />
@@ -136,7 +136,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://joaopauloaramuni.github.io/image/dev.svg?raw=true" width="340px" height="650px" />
+<img alt="GIF" src="https://joaopauloaramuni.github.io/image/dev1.svg?raw=true" width="340px" height="650px" />
 </div>
 </td>
 </tr>
