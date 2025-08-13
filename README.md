@@ -25,19 +25,19 @@
  <td align="center" colspan="3"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aramuni-aeds1-3.png?raw=true"/></a></td>
- <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/aramuni-devlabs-3.png?raw=true"/></a></td>
  <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/aramuni-spring-v2-2.png?raw=true"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/aramuni-devlabs-3.png?raw=true"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aramuni-aeds1-3.png?raw=true"/></a></td>
 </tr>
 <tr>
- <td align="center">🎥 <a href="https://tinyurl.com/equipe-aeds1" target="_blank">Equipe AEDSI (Gravações)</a></td>
- <td align="center">🎥 <a href="https://tinyurl.com/equipe-devlabs" target="_blank">Equipe DevLabs (Gravações)</a></td>
  <td align="center">🎥 <a href="https://tinyurl.com/equipe-springboot" target="_blank">Equipe Spring Boot (Gravações)</a></td>
+ <td align="center">🎥 <a href="https://tinyurl.com/equipe-devlabs" target="_blank">Equipe DevLabs (Gravações)</a></td>
+ <td align="center">🎥 <a href="https://tinyurl.com/equipe-aeds1" target="_blank">Equipe AEDSI (Gravações)</a></td>
 </tr>
 <tr>
- <td align="center">📁 <a href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PROJETOS" target="_blank">Projetos de AEDSI</a></td>
- <td align="center">📁 <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">Projetos do DevLabs</a></td>
  <td align="center">📁 <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/tree/main/PROJETOS" target="_blank">Projetos de Spring Boot</a></td>
+ <td align="center">📁 <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">Projetos do DevLabs</a></td>
+ <td align="center">📁 <a href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PROJETOS" target="_blank">Projetos de AEDSI</a></td>
 </tr>
 </table>
 
