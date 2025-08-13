@@ -1,5 +1,3 @@
-![Spring Boot 3](https://joaopauloaramuni.github.io/image/springboot-3.gif)
-
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
 <div>
