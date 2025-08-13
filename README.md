@@ -111,8 +111,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
-<td>
-<div align="justify">
+<td width="100px">
+<div width="100px" align="justify">
 <p> 
 - :man_teacher: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação. Também sou <code>CTO</code> da Agência Experimental de Software do ICEI - Instituto de Ciências Exatas e Informática.<br />
 - :mortar_board: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, fui <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
