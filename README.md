@@ -94,7 +94,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
 
 <div align="justify">
 Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Sistemas de Informação e Gestão do Conhecimento</a> pela <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>, onde também obteve graduação em <a href="https://processoseletivo.fumec.br/curso/ciencia-da-computacao/" target="_blank">Ciência da Computação</a> (2010-2013). Profissional com 13 anos de experiência no mercado de desenvolvimento de sistemas e há 9 anos na área de educação com ensino de tecnologia. Atualmente, é professor das disciplinas de <a href="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos" target="_blank">Fundamentos de Projeto e Análise de Algoritmos</a>, <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a>, <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a>, <a href="https://github.com/joaopauloaramuni/laboratorio-de-experimentacao-de-software" target="_blank">Laboratório de Experimentação de Software</a> e <a href="https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais" target="_blank">Trabalho Interdisciplinar: Aplicações para Cenários Reais</a> do curso de <a href="https://www.pucminas.br/campus/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">Engenharia de Software</a> da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Além disso, é orientador na disciplina de <a href="https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii" target="_blank">Trabalho de Conclusão de Curso II</a> e é CTO da <a href="https://icei.pucminas.br/aes/" target="_blank">Agência Experimental de Software</a> do <a href="https://icei.pucminas.br/index.php/cursos/graduacao/engenharia-de-software/coracao-eucaristico/noticias-engenharia-software-praca-liberdade/1520-a-agencia-experimental-de-software-esta-recrutando" target="_blank">ICEI - Instituto de Ciências Exatas e Informática</a> da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, encarregado da gestão de 6 times de desenvolvimento, totalizando em média 30 pessoas na equipe. Também foi professor das disciplinas de <a href="https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web" target="_blank">Trabalho Interdisciplinar: Aplicações Web</a> e <a href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i" target="_blank">Algoritmos e Estruturas de Dados I</a> (Linguagem C) do curso de <a href="https://www.pucminas.br/campus/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">Engenharia de Software</a> e da disciplina de <a href="https://github.com/joaopauloaramuni/laboratorio-de-introducao-a-programacao" target="_blank">Laboratório de Iniciação à Programação</a> do curso de <a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Ciencia-da-Computacao.aspx" target="_blank">Ciência da Computação</a> da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. No mercado, presta consultoria para empresas de recrutamento e seleção em tecnologia, aplicando inteligência artificial na identificação e avaliação de perfis técnicos. Anteriormente, foi professor das disciplinas de <a href="https://github.com/joaopauloaramuni/linguagens-de-programacao" target="_blank">Linguagens de Programação</a> (Java), <a href="https://github.com/joaopauloaramuni/arquitetura-de-aplicacoes-web" target="_blank">Arquitetura de Aplicações Web</a> e <a href="https://github.com/joaopauloaramuni/banco-de-dados" target="_blank">Banco de Dados</a> dos cursos de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, <a href="https://newtonpaiva.br/cursos/graduacao-presencial/sistemas-de-informacao/" target="_blank">Sistemas de Informação</a> e <a href="https://newtonpaiva.br/cursos/graduacao-presencial/analise-e-desenvolvimento-de-sistemas/" target="_blank">Análise e Desenvolvimento de Sistemas</a> do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atuou como Tech Manager na holding <a href="https://in8.com.br/" target="_blank">IN8</a>, responsável pela liderança de squads de desenvolvimento de múltiplos projetos para o mercado de milhas aéreas. Foi Tech Lead nos times de back-end e ciência da computação na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> (2020-2023), responsável pela gestão de diversas equipes, além da pesquisa e tomada de decisão em hard skills, definição dos OKRs e KPIs da área, formação e desenvolvimento técnico do time, processos seletivos, produção de conteúdo (<a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">Python</a> e <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/tree/main/PROJETOS" target="_blank">Java</a>) e revisão técnica. Foi professor de Arquitetura de Software e <a href="https://github.com/joaopauloaramuni/engenharia-de-requisitos" target="_blank">Engenharia de Requisitos</a> na <a href="https://www.xpeducacao.com.br/">Faculdade XP Educação - XPE</a> e professor das disciplinas de <a href="https://github.com/joaopauloaramuni/poo">Programação Orientada a Objetos</a> com <a href="https://github.com/joaopauloaramuni/java">Java</a>, <a href="https://github.com/joaopauloaramuni/fundamentos-teoricos-da-computacao" target="_blank">Fundamentos Teóricos da Computação</a> e <a href="https://github.com/joaopauloaramuni/compiladores" target="_blank">Compiladores</a> com <a href="https://github.com/joaopauloaramuni/cpp/tree/main/COMPILADORES" target="_blank">C++</a> do curso de <a href="https://processoseletivo.fumec.br/curso/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, das disciplinas de Engenharia de Software II e Introdução à Programação Web do curso de <a href="https://processoseletivo.fumec.br/cursos/sistemas-de-informacao/" target="_blank">Sistemas de Informação EaD</a> e das disciplinas de Desenvolvimento de Scripts I (<a href="https://github.com/joaopauloaramuni/vbscript" target="_blank">VBScript</a>) e II (<a href="https://github.com/joaopauloaramuni/shellscript" target="_blank">Shell Script</a>) do Curso Superior de Tecnologia em Redes de Computadores da <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a> (2016-2020). Orientou 35 <a href="https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii" target="_blank">trabalhos de conclusão de curso</a> na área de Ciência da Computação e Engenharia de Software, além de ter participado de mais de 50 bancas examinadoras. Foi membro do grupo de pesquisa <a href="https://www.linkedin.com/company/laisfumec/" target="_blank">LAIS</a> (Laboratório de Sistemas de Informação Avançados), onde publicou artigos em periódicos de excelência nacional e internacional, e foi coordenador de projetos de extensão. Atuou como analista de sistemas do grupo <a href="https://www.capgemini.com/br-pt/" target="_blank">Capgemini</a>, com prestação de serviços de tecnologia da informação, trabalhou alocado na <a href="https://www.prosegur.com.br/" target="_blank">Prosegur</a> Brasil, com desenvolvimento em Java para logística e transporte de valores, e foi desenvolvedor back-end sênior na <a href="https://in8.com.br/" target="_blank">IN8</a>, com web scraping e criação de crawlers em Python para programas de milhagem. Possui vivência nos campos de: Liderança e gestão de pessoas, Desenvolvimento de software, Documentação ágil, Implantação de sistemas em âmbito global, Manutenção de sistemas legados, Design patterns e Metodologias ágeis: <a href="https://www.scrum.org/" target="_blank">Scrum</a> e <a href="https://www.lean.org.br/" target="_blank">Lean</a>. Experiência com fabricação de software para projetos da <a href="https://www.oi.com.br/" target="_blank">Oi</a> Telecomunicações, <a href="https://www.gov.br/anp" target="_blank">ANP</a> - Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, <a href="https://www.bb.com.br/" target="_blank">Banco do Brasil S/A</a>, <a href="https://brazil.vallourec.com/" target="_blank">VSB</a> - Vallourec  Sumitomo Tubos do Brasil, <a href="https://www.prosegur.com.br/" target="_blank">Prosegur Brasil</a>, <a href="https://hotmilhas.com.br/" target="_blank">HotMilhas</a>, <a href="https://123milhas.com/" target="_blank">123milhas</a>, <a href="https://www.jedis.com.br/" target="_blank">Jedis</a> - Tecnologia e Recrutamento, <a href="https://bhtec.org.br/">BH-TEC</a>, <a href="https://www.policiamilitar.mg.gov.br/" target="_blank">PMMG</a>: Polícia Militar de Minas Gerais, <a href="https://mariopenna.org.br/" target="_blank">Instituto Mário Penna</a> e <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
@@ -104,7 +104,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
 
 <table>
 <tr>
@@ -136,7 +136,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://joaopauloaramuni.github.io/image/dev1.svg?raw=true" width="340px" height="650px" />
+<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1.svg?raw=true" width="340px" height="650px" />
 </div>
 </td>
 </tr>
@@ -151,7 +151,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true"/></a></code>
 &nbsp; 
@@ -250,7 +250,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/handshake2.gif?raw=true"/>&nbsp;Empresas e contratos que atuei:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?raw=true"/>&nbsp;Empresas e contratos que atuei:
 
 <div align="center">
 <table>
@@ -354,7 +354,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/writing.gif?raw=true"/>&nbsp;Artigos que publiquei:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/writing.svg?raw=true"/>&nbsp;Artigos que publiquei:
 
 <div align="center">
 <table>
@@ -419,7 +419,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
 
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/writing.gif?raw=true"/>&nbsp;Veja mais
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/writing.svg?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
 <div align="center">
@@ -476,7 +476,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
@@ -567,7 +567,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>&nbsp;Veja mais
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
 
@@ -634,7 +634,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Aramuni's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
 </details>
 </div>
@@ -763,7 +763,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/linkedin2.gif?raw=true"/> LinkedIn Recommendations (10/53)</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/linkedin2.svg?raw=true"/> LinkedIn Recommendations (10/53)</summary>
 <div>
 <table>
 <tr>
@@ -1040,7 +1040,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/star.gif?raw=true"/>&nbsp;Stargazers e Forkers:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Stargazers e Forkers:
 
 <div align="center">
 <a href="https://github.com/joaopauloaramuni/joaopauloaramuni/stargazers">
@@ -1075,7 +1075,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Cursos de Pós em Tecnologias Digitais PUC Minas:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Cursos de Pós em Tecnologias Digitais PUC Minas:
 
 <div align="center">
 <a href="https://icei.pucminas.br/latosensu/">
@@ -1090,7 +1090,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
 
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/calendar.gif?raw=true"/>&nbsp;Eventos
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/calendar.svg?raw=true"/>&nbsp;Eventos
 </summary>
 <br />
 <div align="center">
@@ -1125,7 +1125,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/hacker.gif?raw=true"/>&nbsp;Hackathon PUC Minas:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/hacker.svg?raw=true"/>&nbsp;Hackathon PUC Minas:
 
 <div align="center">
 <a href="https://proex.pucminas.br/hackathon/">
@@ -1137,7 +1137,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/google2.gif?raw=true"/>&nbsp;DevFest - GDG - PUC Minas - Unidade Praça da Liberdade:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/google2.svg?raw=true"/>&nbsp;DevFest - GDG - PUC Minas - Unidade Praça da Liberdade:
 
 <div align="center">
 <a href="https://www.sympla.com.br/evento/devfest-belo-horizonte/2586443">
