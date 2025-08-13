@@ -323,6 +323,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <a href="https://mariopenna.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/mariopenna.png?raw=true"/></a>
 </td>
 <td>
+ <a href="https://www.pucminas.br/ServicosComunidade/paginas/centro-clinico-de-fisioterapia.aspx" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/fisioterapiapuc.jpeg?raw=true"/></a>
+</td>
+<td>
  <a href="https://bhtec.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/bhtec.jpg?raw=true"/></a>
 </td>
 <td>
@@ -330,9 +333,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
  <a href="https://www.jedis.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/jedis2.jpeg?raw=true"/></a>
-</td>
-<td>
- <a href="https://github.com/joaopauloaramuni" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
 </td>
 <td>
  <a href="https://github.com/joaopauloaramuni" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
