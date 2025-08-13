@@ -1,4 +1,3 @@
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/devlabs.gif?raw=true"/>
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
 <div>
