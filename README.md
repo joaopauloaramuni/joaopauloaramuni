@@ -31,8 +31,8 @@
 </tr>
 <tr>
  <td align="center">🔗 <a href="https://tinyurl.com/oficina-spring" target="_blank">Link para ingressar na call</a></td>
- <td align="center">🔗 <a href="https://tinyurl.com/dev-labs" target="_blank">Link para ingressar na calll</a></td>
- <td align="center">🔗 <a href="https://tinyurl.com/auloes-aeds1" target="_blank">Link para ingressar na calll</a></td>
+ <td align="center">🔗 <a href="https://tinyurl.com/dev-labs" target="_blank">Link para ingressar na call</a></td>
+ <td align="center">🔗 <a href="https://tinyurl.com/auloes-aeds1" target="_blank">Link para ingressar na call</a></td>
 </tr> 
 <tr>
  <td align="center">🎥 <a href="https://tinyurl.com/equipe-springboot" target="_blank">Equipe Spring Boot (Gravações)</a></td>
