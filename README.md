@@ -334,7 +334,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <a href="https://www.jedis.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/jedis2.jpeg?raw=true"/></a>
 </td>
 <td>
- <a href="https://github.com/joaopauloaramuni" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
+ <a href="https://www.cdcbank.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/cdcbank.jpg?raw=true"/></a>
 </td>
 <td>
  <a href="https://github.com/joaopauloaramuni" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
