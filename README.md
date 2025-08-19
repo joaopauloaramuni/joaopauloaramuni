@@ -426,7 +426,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
  <td align="center">Alguns TCCs que orientei:</td>
  <td align="center">Minha monografia (TCC),<br />dissertação e tese:</td>
- <td align="center">Revista da qual sou avaliador:</td>
+ <td align="center">Revista SprinTi - PUC Minas:</td>
+ <!-- <td align="center">Revista da qual sou avaliador:</td> -->
 </tr> 
 <tr>
 <td align="center">
@@ -436,7 +437,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://github.com/joaopauloaramuni/trabalhos-finais" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/sigc.jpg?raw=true"/></a>
 </td>
 <td align="center">
-<a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rici2.jpg?raw=true"/></a>
+<a href="https://sprinti.pucminas.br/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/sprinti.jpeg?raw=true"/></a>
+<!-- <a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rici2.jpg?raw=true"/></a> -->
 </td>
 </tr>
 <tr>
@@ -448,7 +450,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
  <td align="center">Parceria Universidade Fumec e<br />Prefeitura de Belo Horizonte:</td>
  <td align="center">Parceria Newton Paiva e<br />Colégio Santa Dorotéia:</td>
- <td align="center">Revista SprinTi - PUC Minas:</td>
+ <td align="center">Parceria Newton Paiva e<br />Colégio ICJ:</td>
 </tr> 
 <tr>
  <td align="center">
@@ -458,7 +460,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="200" height="200" src="https://joaopauloaramuni.github.io/image/santadoroteia.png?raw=true"/></a>
 </td>
 <td align="center">
-<a href="https://sprinti.pucminas.br/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/sprinti.jpeg?raw=true"/></a>
+<a href="https://www.colegioicj.com.br/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/icj.png?raw=true"/></a>
 </td>
 </tr>
 <tr>
