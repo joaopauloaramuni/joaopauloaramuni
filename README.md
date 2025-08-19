@@ -460,7 +460,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="200" height="200" src="https://joaopauloaramuni.github.io/image/santadoroteia.png?raw=true"/></a>
 </td>
 <td align="center">
-<a href="https://www.colegioicj.com.br/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/icj.png?raw=true"/></a>
+<a href="https://blog.newtonpaiva.br/noticias/newton-e-colegio-icj-firmam-parceria-para-materias-eletivas/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/icj.png?raw=true"/></a>
 </td>
 </tr>
 <tr>
