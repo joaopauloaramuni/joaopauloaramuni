@@ -85,13 +85,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
-
 </div>
+
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
-<br />
-🌟 Mais de 1000 estrelas somadas nos repositórios. Obrigado pelo seu apoio!
 </div>
+
+----- 
+
+🌟 Mais de 1000 estrelas somadas nos repositórios. Obrigado pelo seu apoio!
 
 -----
 
