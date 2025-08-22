@@ -87,12 +87,15 @@
 </table>
 </div>
 
+-----
+
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
 </div>
 
-<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de 1000 estrelas somadas nos repositórios. Obrigado pelo seu apoio!
+-----
+
+<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de 1000 estrelas somadas nos repositórios. Obrigado pelo seu apoio!
 
 -----
 
