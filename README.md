@@ -720,7 +720,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
 <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 <br />
-![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/>
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/>
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6"/>
+<img alt="GitHub license" src="https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6"/>
 </div>
 
 -----
