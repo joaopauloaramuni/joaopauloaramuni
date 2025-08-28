@@ -714,17 +714,17 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B250%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <a href="https://wakatime.com/@aramuni"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Sep 6 2022" /></a>
 <br />
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni"/>
+<!-- <img alt="GitHub stars" src="https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni"/> -->
+<!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/> -->
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni?color=007ec6"/>
+<img alt="GitHub license" src="https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni?color=007ec6"/>
+<br />
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
 <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
-<br />
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni"/>
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni"/>
-<!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/> -->
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni?color=007ec6"/>
-<img alt="GitHub license" src="https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni?color=007ec6"/>
 </div>
 
 -----
