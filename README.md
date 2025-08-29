@@ -716,7 +716,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
-<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&style=for-the-badge"/>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/>
 <!-- <img alt="GitHub stars" src="https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni"/> -->
 <!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/> -->
