@@ -697,6 +697,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
 <img src="https://img.shields.io/badge/Remix-Dev-blue?logo=Remix"/>
 <img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
+<br />
 <img src="https://img.shields.io/badge/S3-Dev-blue?logo=amazons3"/>
 <img src="https://img.shields.io/badge/EC2-Dev-blue?logo=amazonec2"/>
 <img src="https://img.shields.io/badge/SQS-Dev-blue?logo=amazonsqs"/>
@@ -709,8 +710,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
 <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
-<br />
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
+<br />
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B250%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <a href="https://wakatime.com/@aramuni"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Sep 6 2022" /></a>
 
