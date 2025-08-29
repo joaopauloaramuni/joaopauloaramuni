@@ -721,6 +721,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <!-- <img alt="GitHub stars" src="https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni"/> -->
 <!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/> -->
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni?color=007ec6"/>
+<img alt="Status do GitHub Actions" src="https://img.shields.io/github/actions/workflow/status/joaopauloaramuni/joaopauloaramuni/main.yml?color=007ec6"/>
 <img alt="GitHub license" src="https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni?color=007ec6"/>
 <br />
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
