@@ -4,7 +4,7 @@
 
 <table>
 <tr>
- <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas3.svg"/></td>
+ <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas_3.svg"/></td>
 </tr>
 <tr>
  <td align="center">:computer: Oficinas semanais online de desenvolvimento de software</td>
