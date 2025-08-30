@@ -718,14 +718,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 -----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&style=for-the-badge"/>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&logo=files"/>
 <!-- <img alt="GitHub stars" src="https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni"/> -->
 <!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/> -->
-<img alt="Status do GitHub Actions" src="https://img.shields.io/github/actions/workflow/status/joaopauloaramuni/joaopauloaramuni/main.yml?style=for-the-badge&color=007ec6"/>
-<img alt="GitHub license" src="https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6"/>
+<img alt="Status do GitHub Actions" src="https://img.shields.io/github/actions/workflow/status/joaopauloaramuni/joaopauloaramuni/main.yml?style=for-the-badge&color=007ec6&logo=githubactions"/>
+<img alt="GitHub license" src="https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6&logo=opensourceinitiative"/>
 <br />
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6"/>
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/>
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&color=007ec6&logo=gitkraken"/>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&logo=clockify"/>
 <br />
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
