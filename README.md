@@ -4,7 +4,7 @@
 
 <table>
 <tr>
- <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas_3.svg"/></td>
+ <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas4.svg"/></td>
 </tr>
 <tr>
  <td align="center">:computer: Oficinas semanais online de desenvolvimento de software</td>
@@ -19,9 +19,9 @@
 
 <table>
 <tr>
- <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot3.svg"/></a></td>
- <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs3.svg"/></a></td>
- <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aeds3.svg"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot4.svg"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs4.svg"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aeds4.svg"/></a></td>
 </tr>
 <tr>
  <td align="center">🔗 <a href="https://tinyurl.com/oficina-spring" target="_blank">Link para ingressar na call</a></td>
