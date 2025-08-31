@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PokeAPI/pokeapi</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Pokémon API</div>
@@ -57,7 +57,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        709
+                                        710
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>badges/shields</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Concise, consistent, and legible badges in SVG and raster format</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>avinashyadav16/repoViewsCounter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project provides a simple and effective way to track and display the number of views for a GitHub repository. The view count is automatically updated and shown as a badge using a serverless function deployed on Netlify.</div>
