@@ -2,8 +2,6 @@
 
 <div>
 
-![Oficinas](https://joaopauloaramuni.github.io/image/banner_oficinas_3.svg)
-
 <table>
 <tr>
  <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas_3.svg"/></td>
