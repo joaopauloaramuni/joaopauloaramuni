@@ -269,7 +269,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <a href="https://brazil.vallourec.com/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/vsb.png?raw=true"/></a>
 </td>
 <td>
- <a href="https://www.bb.com.br/site/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/bb.png?raw=true"/></a>
+ <a href="https://www.bb.com.br/site/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/bb2.png?raw=true"/></a>
 </td>
 <td>
   <a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/capgemini.png?raw=true"/></a>
