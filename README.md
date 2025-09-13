@@ -908,7 +908,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
   </tr>
   <tr>
    <td>
-   <img alt="Quotes" height="180px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+   <img alt="Quotes" height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
    </td>
   </tr>
   <tr>
