@@ -321,7 +321,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
- <a href="https://www.policiamilitar.mg.gov.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/pmmg.png?raw=true"/></a>
+ <a href="https://www.policiamilitar.mg.gov.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/cts.jpeg?raw=true"/></a>
 </td>
 <td>
  <a href="https://mariopenna.org.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/mariopenna.png?raw=true"/></a>
