@@ -1238,6 +1238,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -->
 
+<!--
+
 :watch: Horários 2° Sem 2025:
 
 | ${\color{peachpuff}Horário}$ | ${\color{peachpuff}Segunda}$ | ${\color{peachpuff}Terça}$ | ${\color{peachpuff}Quarta}$ | ${\color{peachpuff}Quinta}$ | ${\color{peachpuff}Sexta}$ |
@@ -1251,6 +1253,21 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | ${\color{peachpuff}18:00-19:00}$ | ${\color{cyan}OFICINAS}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/tree/main/PROJETOS" target="_blank">SpringBoot</a> |--| ${\color{cyan}OFICINAS}$ <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">DevLabs</a> |--| ${\color{coral}TEAMS-AES/CTOs}$ |
 | ${\color{peachpuff}19:00-20:40}$ | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais" target="_blank">TIS3 - Aplicações para cenários reais</a> | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos" target="_blank">Fundamentos de Projeto e Análise de Algoritmos</a> |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a> G1 |
 | ${\color{peachpuff}20:50-22:30}$ | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--|--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a> G1 | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-experimentacao-de-software" target="_blank">Laboratório de Experimentação de Software</a> G2 |
+
+-->
+
+:watch: Horários 1° Sem 2026:
+
+| ${\color{peachpuff}Horário}$ | ${\color{peachpuff}Segunda}$ | ${\color{peachpuff}Terça}$ | ${\color{peachpuff}Quarta}$ | ${\color{peachpuff}Quinta}$ | ${\color{peachpuff}Sexta}$ |
+|-------------|------------|------------|------------|------------|------------|
+| ${\color{peachpuff}07:00-08:40}$ |--|--|--|--|--|
+| ${\color{peachpuff}08:50-10:30}$ | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--|--|
+| ${\color{peachpuff}10:40-12:20}$ | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvmento de Software</a> |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a> | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |
+| ${\color{peachpuff}17:00-18:00}$ | ${\color{cyan}OFICINAS}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/tree/main/PROJETOS" target="_blank">SpringBoot</a> |--| ${\color{cyan}OFICINAS}$ <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">DevLabs</a> | ${\color{olive}(LOURDES)}$ <a href="https://calendly.com/aramuni/" target="_blank">ORIENTAÇÃO TCCII</a> | ${\color{cyan}OFICINAS}$ <a href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PROJETOS" target="_blank">Aulões de AEDSI</a> |
+| ${\color{peachpuff}17:10-18:50}$ |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a> G2 |--|--|--|
+| ${\color{peachpuff}18:00-19:00}$ | ${\color{cyan}OFICINAS}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/tree/main/PROJETOS" target="_blank">SpringBoot</a> |--| ${\color{cyan}OFICINAS}$ <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">DevLabs</a> |--| ${\color{coral}TEAMS-AES/CTOs}$ |
+| ${\color{peachpuff}19:00-20:40}$ | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--| ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |
+| ${\color{peachpuff}20:50-22:30}$ | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvmento de Software</a> |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a> G1 |--|--|
 
 -----
 
