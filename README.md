@@ -981,8 +981,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
                </a>
              </td>
              <td>
-               | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2025 Aramuni</a><br />
-               | Última atualização: 25/10/2025
+               | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2026 Aramuni</a><br />
+               | Última atualização: 10/02/2026
              </td>
            </tr>
            <tr>
