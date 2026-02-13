@@ -94,7 +94,7 @@
 
 -----
 
-<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/> <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de 1000 estrelas somadas nos repositórios. Obrigado pelo seu apoio! 👨‍💻
+<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/> <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de 1100 estrelas somadas nos repositórios. Obrigado pelo seu apoio! 👨‍💻
 
 -----
 
