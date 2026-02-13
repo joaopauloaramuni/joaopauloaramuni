@@ -525,7 +525,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=24" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
 <td>
 <img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
