@@ -524,9 +524,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=aramuni&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
 </tr>
 </table>
@@ -556,10 +556,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
+<!-- <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/> -->
+<img src="https://helio-github-stats.vercel.app/api?username=joaopauloaramuni&custom_title=GitHub+Stats&theme=dark&title_color=4c71f2&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" />
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
+<!-- <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/> -->
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" loading="lazy" />
 </td>
 <td>
 <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
