@@ -519,6 +519,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 </table>
 -->
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
@@ -536,16 +537,15 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
-<!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/> -->
-<img src="https://helio-github-stats.vercel.app/api?username=joaopauloaramuni&custom_title=GitHub+Stats&theme=dark&title_color=4c71f2&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" />
-</td>
-<td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" loading="lazy" />
 </td>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=233&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" loading="lazy" />
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" loading="lazy" />
 </td>
 </tr>
 <tr>
