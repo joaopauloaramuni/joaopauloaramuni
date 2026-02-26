@@ -1298,7 +1298,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 :watch: Horários 1° Sem 2026:
 
-| ${\color{chocolate}Horário}$ | ${\color{chocolate}Segunda}$ | ${\color{chocolate}Terça}$ | ${\color{chocolate}Quarta}$ | ${\color{chocolate}Quinta}$ | ${\color{chocolate}Sexta}$ |
+| ${\color{darkorange}Horário}$ | ${\color{darkorange}Segunda}$ | ${\color{darkorange}Terça}$ | ${\color{darkorange}Quarta}$ | ${\color{darkorange}Quinta}$ | ${\color{darkorange}Sexta}$ |
 |-------------|------------|------------|------------|------------|------------|
 | ${\color{peachpuff}07:00-08:40}$ |--|--|--|--|--|
 | ${\color{peachpuff}08:50-10:30}$ | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--|--|
