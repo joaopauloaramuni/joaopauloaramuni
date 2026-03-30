@@ -56,8 +56,7 @@
 <tr>
 <td width="550px" >
 <div align="justify">
-Tive o prazer de participar do episódio #155 do Papinho Tech ao lado do Gustavo Caetano, um antigo amigo da época de startup em edtech. 
-Foi uma conversa super rica sobre tecnologia e educação, onde compartilhamos experiências, aprendizados e visões sobre o futuro desse espaço que continua evoluindo tão rápido. <br /><br />
+Tive o prazer de participar do episódio #155 do <a href="https://open.spotify.com/show/1aj1JxbfYePAHp1eliCKya?si=7b2cd04a46194359" target="_blank">Papinho Tech</a> ao lado do <a href="https://br.linkedin.com/in/oguscaetano" target="_blank">Gustavo Caetano</a>, um antigo amigo da época de startup edtech. Foi uma conversa super rica sobre tecnologia e educação, onde compartilhamos experiências, aprendizados e visões sobre o futuro desse espaço que continua evoluindo tão rápido. Confira! <br /><br />
 
 - 🎥 [Assistir no YouTube](https://www.youtube.com/watch?v=SWa8o5RNzRA)
 - 🎧 [Ouvir no Spotify](https://open.spotify.com/episode/3TskGEp5hqVzoJk6RE5Dst?si=-Qtk_jqzR2WyQoT2YJ5U1Q)
