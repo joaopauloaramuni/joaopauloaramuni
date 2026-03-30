@@ -54,7 +54,7 @@
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
-<td width="600px" >
+<td width="500px" >
 <div align="justify">
 Tive o prazer de participar do episódio #155 do Papinho Tech ao lado do Gustavo Caetano, um antigo amigo da época de startup em edtech. 
 Foi uma conversa super rica sobre tecnologia e educação, onde compartilhamos experiências, aprendizados e visões sobre o futuro desse espaço que continua evoluindo tão rápido. <br /><br />
