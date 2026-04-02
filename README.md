@@ -291,7 +291,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?raw=true"/>&nbsp;Empresas e contratos que atuei:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?v=2&cb=1"/>&nbsp;Empresas e contratos que atuei:
 
 <div align="center">
 <table>
