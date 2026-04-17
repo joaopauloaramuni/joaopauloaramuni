@@ -260,8 +260,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
     <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></td>
     <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
-    <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
-    <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
+    <td align="center"><a href="https://cursor.com/pt-BR" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cursor.png?raw=true"/></a></td>
+    <td align="center"><a href="https://claude.ai/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/claude.svg?raw=true"/></a></td>
    </tr>
 </table>
 
