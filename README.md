@@ -194,7 +194,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<table>
+<table align="center">
   <tr>
     <td align="center" colspan="12"></td>
   </tr>
