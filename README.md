@@ -196,7 +196,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <table>
   <tr>
-    <td align="center" colspan="15"></td>
+    <td align="center" colspan="12"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true"/></a></td>
@@ -211,14 +211,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
     <td align="center"><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://joaopauloaramuni.github.io/image/play.png?raw=true"/></a></td>
     <td align="center"><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/dotnet.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/jenkins.svg?raw=true"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="12"></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="15"></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></td>
     <td align="center"><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vbs.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></td>
@@ -228,23 +228,28 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
     <td align="center"><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></td>
     <td align="center"><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nextjs.png?raw=true"/></a></td>
     <td align="center"><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://joaopauloaramuni.github.io/image/jest.png?raw=true"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="12"></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/prometheus.png?raw=true"/></a></td>
     <td align="center"><a href="https://grafana.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/grafana.png?raw=true"/></a></td>
     <td align="center"><a href="https://newrelic.com/pt" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/newrelic.png?raw=true"/></a></td>
     <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/fastapi.svg?raw=true"/></a></td>
     <td align="center"><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></td>
     <td align="center"><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="15"></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/heroku.png?raw=true"/></a></td>
     <td align="center"><a href="https://fly.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/fly.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></td>
     <td align="center"><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/insomnia.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/soap.png?raw=true"/></a></td>
     <td align="center"><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/redis.png?raw=true"/></a></td>
+  </tr>
+   <tr>
+    <td align="center" colspan="12"></td>
+  </tr>
+   <tr>
     <td align="center"><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/s3.svg?raw=true"/></a></td>
     <td align="center"><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/sqs.png?raw=true"/></a></td>
     <td align="center"><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></td>
@@ -254,7 +259,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
     <td align="center"><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/netbeans.png?raw=true"/></a></td>
     <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></td>
-  </tr>
+    <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
+    <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
+    <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></td>
+   </tr>
 </table>
 
 </div>
