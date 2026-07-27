@@ -19,15 +19,15 @@
 
 <table>
  <tr>
+ <td align="center">Toda segunda-feira</td>
  <td align="center">Toda quarta-feira</td>
- <td align="center">Toda quinta-feira</td>
  <td align="center">Toda sexta-feira</td>
 </tr>
 <tr>
- <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank">
-  <img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs4.svg?v=8&cb=3"/></a></td>
  <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank">
   <img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot3.svg?v=7&cb=4"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank">
+  <img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs4.svg?v=8&cb=3"/></a></td>
  <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank">
   <img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aeds-4.svg?v=6&cb=4"/></a></td>
 </tr>
