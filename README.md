@@ -20,7 +20,7 @@
 <table>
  <tr>
  <td align="center">Toda segunda-feira</td>
- <td align="center">Toda quarta-feira</td>
+ <td align="center">Toda sexta-feira</td>
  <td align="center">Toda sexta-feira</td>
 </tr>
 <tr>
