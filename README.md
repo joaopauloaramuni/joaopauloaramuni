@@ -581,6 +581,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <td>
 <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 <img src="https://helio-github-stats.vercel.app/api?username=joaopauloaramuni&custom_title=GitHub+Stats&theme=dark&title_color=4c71f2&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" /> -->
+
+<!--
+
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 <td>
@@ -601,13 +604,20 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 <td>
-<!-- <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/> -->
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 <img src="https://github-streak-stats-ruby.vercel.app/?user=joaopauloaramuni&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de joaopauloaramuni" width="466" height="194" loading="lazy" />
+
+-->
+
+<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=joaopauloaramuni&custom_title=GitHub+Stats&theme=dark&title_color=fb8c00&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
+</td>
+<td>
+<img alt="GitHub Streak" width="450px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
 <tr>
  <td align="center" colspan="3"></td>
-</tr>
+</tr> 
 </table>
 
 <table>
