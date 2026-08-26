@@ -19,9 +19,9 @@
 
 <table>
  <tr>
- <td align="center">Toda segunda-feira de 15:00 até 17:00</td>
- <td align="center">Toda quarta-feira de 15:00 até 17:00</td>
- <td align="center">Toda quarta-feira de 15:00 até 17:00</td>
+ <td align="center">Toda segunda de 15:00 até 17:00</td>
+ <td align="center">Toda quarta de 15:00 até 17:00</td>
+ <td align="center">Toda quarta de 15:00 até 17:00</td>
 </tr>
 <tr>
  <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank">
