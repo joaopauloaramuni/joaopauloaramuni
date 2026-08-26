@@ -20,8 +20,8 @@
 <table>
  <tr>
  <td align="center">Toda segunda-feira</td>
- <td align="center">Toda sexta-feira</td>
- <td align="center">Toda sexta-feira</td>
+ <td align="center">Toda quarta-feira</td>
+ <td align="center">Toda quarta-feira</td>
 </tr>
 <tr>
  <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank">
