@@ -719,12 +719,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
 <!-- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/> -->
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22lih5eniohc7dawfxohlo7wy&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="200px" />
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22lih5eniohc7dawfxohlo7wy&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="250px"/>
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <!-- <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a> -->
-<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=joaoaramuni&amp;count=10&amp;radius=40&amp;stats=compact&amp;footer=wave&amp;loved=off" alt="Last.fm recently played" width="200px" />
+<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=joaoaramuni&amp;count=10&amp;radius=40&amp;stats=compact&amp;footer=wave&amp;loved=off" alt="Last.fm recently played" width="200px"/>
 </td>
 </tr>
 <tr>
