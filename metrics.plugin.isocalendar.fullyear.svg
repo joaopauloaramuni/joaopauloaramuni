@@ -2026,10 +2026,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.069364161849711 0,1.069364161849711 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.069364161849711 1.7,2.069364161849711 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.479768786127167)">
+                            <g transform="translate(-10.2, 11.410404624277456)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.520231213872832 0,1.5202312138728322 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5202312138728322 1.7,2.520231213872832 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5895953757225434 0,1.5895953757225434 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5895953757225434 1.7,2.5895953757225434 z"/>
                             </g>
                         </g>
                     </g>
