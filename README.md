@@ -196,35 +196,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div align="center">
 <table>
-<tr>
- <td align="center" colspan="8"></td>
-</tr> 
-<tr>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/argentina.png?raw=true"/>
-</td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/uruguay.png?raw=true"/>
-</td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/germany.png?raw=true"/>
-</td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/japan.png?raw=true"/>
-</td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/south-korea.png?raw=true"/>
-</td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/china.png?raw=true"/>
-</td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/hong-kong.png?raw=true"/>
-</td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/macau.png?raw=true"/>
-</td>
-</tr>
 
 <tr>
 <td align="center">Argentina</td>
@@ -238,32 +209,35 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 
 <tr>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/thailand.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/argentina.png?raw=true"/>
 </td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/indonesia.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/uruguay.png?raw=true"/>
 </td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/singapore.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/germany.png?raw=true"/>
 </td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/malasya.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/japan.png?raw=true"/>
 </td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/united-arab-emirates.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/south-korea.png?raw=true"/>
 </td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/france.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/china.png?raw=true"/>
 </td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/italy.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/hong-kong.png?raw=true"/>
 </td>
-<td>
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/switzerland.png?raw=true"/>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/macau.png?raw=true"/>
 </td>
 </tr>
 
+</table>
+
+<table>
 <tr>
 <td align="center">Tailândia</td>
 <td align="center">Indonésia</td>
@@ -274,10 +248,34 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <td align="center">Itália</td>
 <td align="center">Suíça</td>
 </tr>
-
+ 
 <tr>
- <td align="center" colspan="8"></td>
-</tr> 
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/thailand.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/indonesia.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/singapore.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/malasya.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/united-arab-emirates.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/france.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/italy.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/switzerland.png?raw=true"/>
+</td>
+</tr>
+
 </table>
 </div>
 
