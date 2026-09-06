@@ -192,7 +192,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/fly.svg?raw=true"/>Países que já visitei:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/fly-2.svg?raw=true"/>&nbsp;Países que já visitei:
 
 <div align="center">
 <table width="100%">
