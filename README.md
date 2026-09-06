@@ -222,10 +222,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/japan.png?raw=true"/>
 </td>
 <td align="center">
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/south-korea.png?raw=true"/>
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/south-korea-2.png?raw=true"/>
 </td>
 <td align="center">
- <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/china.png?raw=true"/>
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/china-2.png?raw=true"/>
 </td>
 <td align="center">
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/hong-kong.png?raw=true"/>
