@@ -195,7 +195,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Países que já turistei:
 
 <div align="center">
-<table>
+<table width="100%">
 
 <tr>
 <td align="center">Argentina</td>
@@ -237,7 +237,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">Tailândia</td>
 <td align="center">Indonésia</td>
