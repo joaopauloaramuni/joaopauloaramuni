@@ -225,6 +225,18 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/macau.png?raw=true"/>
 </td>
 </tr>
+
+<tr>
+<td align="center">Argentina</td>
+<td align="center">Uruguai</td>
+<td align="center">Alemanha</td>
+<td align="center">Japão</td>
+<td align="center">Coreia do Sul</td>
+<td align="center">China</td>
+<td align="center">Hong Kong</td>
+<td align="center">Macau</td>
+</tr>
+
 <tr>
 <td>
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/thailand.png?raw=true"/>
@@ -251,10 +263,22 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/switzerland.png?raw=true"/>
 </td>
 </tr>
+
+<tr>
+<td align="center">Tailândia</td>
+<td align="center">Indonésia</td>
+<td align="center">Singapura</td>
+<td align="center">Malásia</td>
+<td align="center">Dubai/Abu Dhabi</td>
+<td align="center">França</td>
+<td align="center">Itália</td>
+<td align="center">Suíça</td>
+</tr>
+
 <tr>
  <td align="center" colspan="8"></td>
 </tr> 
-<table>
+</table>
 </div>
 
 </div>
