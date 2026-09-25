@@ -460,7 +460,65 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
  <td align="center" colspan="8"></td>
+</tr>
+<tr>
+<td>
+ <a href="https://hotmilhas.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/hotmilhas.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://123milhas.com/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/123milhas.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.betrybe.com/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/trybe.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.xpeducacao.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/xpe.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.fumec.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/fumec.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.linkedin.com/company/laisfumec/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/lais.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://newtonpaiva.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/newton.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.pucminas.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/puc2.jpg?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="8"></td>
 </tr> 
+<tr>
+<td>
+ <a href="https://institucional.afya.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/afya.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.instagram.com/apacfemininabh/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/apac.jpeg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://www.instagram.com/enfermagempucminas/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/enfermagempuc.jpg?raw=true"/></a>
+</td>
+<td>
+ <a href="https://aramuni.dev/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://aramuni.dev/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://aramuni.dev/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://aramuni.dev/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
+</td>
+<td>
+ <a href="https://aramuni.dev/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/aramunilogo.png?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr>
 </table>
 
 </div>
