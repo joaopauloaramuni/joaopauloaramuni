@@ -495,7 +495,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <a href="https://institucional.afya.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/afya.png?raw=true"/></a>
 </td>
 <td>
- <a href="https://www.instagram.com/apacfemininabh/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/apac.jpeg?raw=true"/></a>
+ <a href="https://www.instagram.com/apacfemininabh/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/apac_v2.jpeg?raw=true"/></a>
 </td>
 <td>
  <a href="https://www.instagram.com/enfermagempucminas/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/enfermagempuc.jpg?raw=true"/></a>
