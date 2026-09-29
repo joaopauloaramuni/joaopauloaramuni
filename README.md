@@ -466,7 +466,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <a href="https://institucional.afya.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/afya.png?raw=true"/></a>
 </td>
 <td>
- <a href="https://www.autoglassonline.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/autoglass.png?raw=true"/></a>
+ <a href="https://www.autoglassonline.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/autoglass2.jpg?raw=true"/></a>
 </td>
 <td>
  <a href="https://allos.com.br/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/allos.jpeg?raw=true"/></a>
