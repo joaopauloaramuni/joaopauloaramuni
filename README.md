@@ -198,6 +198,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <table width="100%">
 
 <tr>
+<td align="center">Brasil</td>
 <td align="center">Argentina</td>
 <td align="center">Uruguai</td>
 <td align="center">Alemanha</td>
@@ -209,6 +210,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 
 <tr>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/brazil.png?raw=true"/>
+</td>
 <td align="center">
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/argentina.png?raw=true"/>
 </td>
@@ -246,6 +250,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <td align="center">Dubai<br/>Abu Dhabi</td>
 <td align="center">França</td>
 <td align="center">Itália</td>
+<td align="center">Vaticano</td>
 <td align="center">Suíça</td>
 </tr>
  
@@ -270,6 +275,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td align="center">
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/italy.png?raw=true"/>
+</td>
+<td align="center">
+ <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/vatican.png?raw=true"/>
 </td>
 <td align="center">
  <img width="75" height="75" src="https://joaopauloaramuni.github.io/image/switzerland.png?raw=true"/>
