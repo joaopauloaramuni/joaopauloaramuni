@@ -68,7 +68,7 @@ Tive o prazer de participar do episódio #155 do <a href="https://open.spotify.c
 </td>
 <td>
 <div>
-<a href="https://open.spotify.com/episode/3TskGEp5hqVzoJk6RE5Dst?si=-Qtk_jqzR2WyQoT2YJ5U1Q" target="_blank"><img src="https://joaopauloaramuni.github.io/image/papinhotech.jpg?raw=true" width="300px"/></a>
+<a href="https://open.spotify.com/episode/3TskGEp5hqVzoJk6RE5Dst?si=-Qtk_jqzR2WyQoT2YJ5U1Q" target="_blank"><img src="https://joaopauloaramuni.github.io/image/papinhotech.jpg?raw=true" width="300px" height="200px"/></a>
 </div>
 </td>
 </tr>
