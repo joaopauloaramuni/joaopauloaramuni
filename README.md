@@ -917,7 +917,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <br />
-<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B250%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
+<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B350%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <a href="https://wakatime.com/@aramuni"><img src="https://wakatime.com/badge/user/353fdbc4-c6bd-4e5b-af96-09771e55bf57.svg" alt="Total time coded since Sep 6 2022" /></a>
 
 -----
@@ -1239,7 +1239,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
           <p>💡 Ajude a reconhecer meu trabalho open source!<br />
           🚀 Se você gosta dos meus projetos de código aberto, considere me indicar para o programa <b>GitHub Stars</b>!<br />
           🌐 O programa destaca devs que contribuem ativamente com a comunidade open source no GitHub.<br />
-          📈 Somando os repositórios, já compartilhei mais de <b>250 mil linhas de código</b> com a comunidade.</p>
+          📈 Somando os repositórios, já compartilhei mais de <b>350 mil linhas de código</b> com a comunidade.</p>
           <p> 🔗 <b>Indique aqui:</b> <a href="https://stars.github.com/nominate/" target="_blank">https://stars.github.com/nominate/</a><br /></p>
           🌟 Muito obrigado pelo apoio! 🙌
         </div>
