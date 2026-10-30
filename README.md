@@ -48,7 +48,7 @@
 </tr>
 <tr>
  <td align="center">📁 <a href="https://github.com/joaopauloaramuni/desenvolvimento-e-integracao-de-aplicacoes-web/tree/main/PROJETOS/FullStack" target="_blank">Projetos FullStack</a></td>
- <td align="center">📁 <a href="https://github.com/joaopauloaramuni/desenvolvimento-e-integracao-de-aplicacoes-web/tree/main/PROJETOS/React" target="_blank">Projetos React/Vite</a></td>
+ <td align="center">📁 <a href="https://github.com/joaopauloaramuni/desenvolvimento-e-integracao-de-aplicacoes-web/tree/main/PROJETOS/React" target="_blank">Projetos React</a></td>
  <td align="center">📁 <a href="https://github.com/joaopauloaramuni/c/tree/main/PROJETOS" target="_blank">Projetos C</a></td>
 </tr>
 </table>
