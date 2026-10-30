@@ -42,7 +42,7 @@
  <td align="center">🎥 <a href="https://tinyurl.com/equipe-aeds1" target="_blank">Equipe AEDSI (Gravações)</a></td>
 </tr>
 <tr>
- <td align="center">📁 <a href="https://github.com/joaopauloaramuni/desenvolvimento-e-integracao-de-aplicacoes-web/tree/main/PROJETOS/SpringBoot" target="_blank">Projetos Spring Boot</a></td>
+ <td align="center">📁 <a href="https://github.com/joaopauloaramuni/desenvolvimento-e-integracao-de-aplicacoes-web/tree/main/PROJETOS/SpringBoot" target="_blank">Projetos SpringBoot</a></td>
  <td align="center">📁 <a href="https://github.com/joaopauloaramuni/python/tree/main/PROJETOS" target="_blank">Projetos Python</a></td>
  <td align="center">📁 <a href="https://github.com/joaopauloaramuni/algoritmos-e-estruturas-de-dados-i/tree/main/PROJETOS" target="_blank">Projetos AEDSI</a></td>
 </tr>
